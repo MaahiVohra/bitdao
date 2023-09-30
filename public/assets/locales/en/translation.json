@@ -1,0 +1,1009 @@
+{
+	"navbar": {
+		"home": "Home",
+		"vote": "Vote",
+		"rate": "Rate",
+		"review": "Review",
+		"connect": "Connect",
+		"getWallet": "Get Wallet"
+	},
+	"vote": {
+		"create": "Create",
+		"recent": "Recent",
+		"all": "All",
+		"my": "My Events",
+		"upcoming": "Upcoming",
+		"goToEvent": "Go To Event"
+	},
+	"event": {
+		"create": {
+			"new": "Create New Event",
+			"name": "Event Name",
+			"namePlaceholder": "Give Event a Name",
+			"description": "Description",
+			"descriptionPlaceholder": "Add a Description",
+			"type": {
+				"label": "Type",
+				"heading": "Select Type of Event",
+				"public": "Public",
+				"private": "Private"
+			},
+			"startDate": "Start Date",
+			"endDate": "End Date",
+			"startTime": "Start Time",
+			"endTime": "End Time",
+			"options": "Voting Options",
+			"optionsPlaceholder": "Add Option",
+			"walletAddressPlaceholder": "e.g. 0xbff6CbaE23f790826f4209438752bd269e63e8c5",
+			"allowedWalletAddress": "Allowed Wallet Addresses",
+			"uploadFile": "Upload File",
+			"eventCreatedSuccessfully": "Event Created Successfully",
+			"goToEvent": "Go To Event"
+		},
+		"cancel": "Cancel"
+	},
+	"loading": "Loading...,",
+	"Scanning": "Scanning...",
+	"socials": {
+		"linkedin": "Linkedin",
+		"instagram": "Instagram"
+	},
+	"sectors": {
+		"heading": "Sectors",
+		"education": "Education",
+		"eventManagement": "Event Management",
+		"healthcare": "Healthcare",
+		"legal": "Legal",
+		"realEstate": "Real Estate",
+		"sports": "Sports",
+		"entertainment": "Entertainment"
+	},
+	"Navbar": {
+		"Home": "Home",
+		"Create": "Create",
+		"View": "View",
+		"Individuals": "Individuals",
+		"Sectors": "Sectors",
+		"Utility": "Utility",
+		"Souvenirs": "Souvernirs",
+		"BatchdNFT": "Batch dNFT",
+		"IndividualdNFT": "Individual dNFT",
+		"LoyaldNFT": "Loyal dNFT",
+		"Verify": "Verify",
+		"bitwallet": "BitWallet",
+		"getwallet": "Get Wallet",
+		"Contact_Us": "Contact Us",
+		"Connect": "Connect",
+		"Arabic": "Arabic",
+		"English": "English",
+		"Institutions": "Institutions",
+		"Dashboard": "Dashboard",
+		"AboutUs": "About Us",
+		"FAQ": "FAQ",
+		"Team": "Team",
+		"Roadmap": "Roadmap",
+		"Whitepaper": "Whitepaper",
+		"Tokenomics": "Tokenomics",
+		"OurPartners": "Our Partners",
+		"blog": "Blog",
+		"copyright": "Copyright © 2023 Beyond Imagination Technologies Pvt. Ltd. All right reserved."
+	},
+	"Home": {
+		"heading": "BitMemoir",
+		"heading2": "Saudi",
+		"subheading1": "Issue",
+		"subheading2": "Store",
+		"subheading3": "Verify",
+		"subheading4": "Retrieve",
+		"button1": "Try for Free",
+		"button2": "Learn More",
+		"aboutus": {
+			"about": "What is BitMemoir?",
+			"description": "BitMemoir is a web3 based application that enables individuals and organizations to provide authorized clients with digital certifications. Individual users can convert personal identifiers, property documents, and other sensitive materials into digital certificates, or NFTs, and store them in their wallets. By utilizing blockchain technology, BitMemoir enables users to own their personal documents in perpetuity."
+		},
+		"productsuite": {
+			"heading": "PRODUCT SUITE",
+			"container": [
+				{
+					"title": "NFT Utility",
+					"description": "Unlock new and unique possibilities in the digital realm by enabling unique digital ownership and facilitating seamless transactions with enhanced provenance, scarcity, and programmability."
+				},
+				{
+					"title": "NFT as Souvenirs",
+					"description": "A modern way to collect and preserve memories and create a lasting connection between the brands and its customers, allowing owning and commemorating unique moments, events, or experiences in a secure and verifiable way."
+				},
+				{
+					"title": "Dynamic NFTs",
+					"description": "Bring interactivity and programmability to the world of digital collectibles. This initiative will enable NFTs to change, adapt, and respond to various conditions or inputs, thereby, offering a unique experience, creating new possibilities for engagement and creativity within the NFT ecosystem."
+				},
+				{
+					"title": "Non Custodial wallet",
+					"description": "Owing to the increasing need of an NFT-friendly decentralized wallet, we present, BitWallet, which is both NFT and crypto-friendly and with a super-simple UI/UX, will enhance the overall web3 experience for users."
+				},
+				{
+					"title": "Digital Credentials",
+					"description": "A secure and verifiable way to represent and authenticate an individual's qualifications, skills, and achievements. Offering digital credentials will offer convenience, efficiency, and trust, revolutionizing the way credentials are issued, shared, and verified."
+				},
+				{
+					"title": "Authentication and Verification",
+					"description": "Authentication and Verification"
+				},
+				{
+					"title": "NFT Loyalty Programme",
+					"description": "A unique initiative that enables using Non-fungible tokens (NFTs) as loyalty/reward points and coupons to engage with the customers. These NFTs may either be redeemed for multiple rewards from brands or further transferred to family, friends or acquaintances as a gift, giving brands an increased customer base."
+				},
+				{
+					"title": "Skills Passport",
+					"description": "An initiative towards creating a digital repository of verified documents and credentials for students, mapping their interests and skills, allowing them to create profiles that highlight their unique skill sets and experiences."
+				},
+				{
+					"title": "Medical Passport",
+					"description": "An effort towards mapping the medical history, creating a repository of medical documents and making the tracking of past medical conditions and diagnosis easier, thus helping in correct medical diagnosis and advice."
+				}
+			]
+		},
+		"usecases": {
+			"heading": "USE CASES",
+			"container": {
+				"field1": {
+					"field": "Education Sector",
+					"detail": {
+						"detail1": "Skills Passport",
+						"detail2": "Verified Credentials"
+					}
+				},
+				"field2": {
+					"field": "Medical Sector",
+					"detail": {
+						"detail1": "Medical Passport",
+						"detail2": "Patient Records"
+					}
+				},
+				"field3": {
+					"field": "Individuals",
+					"detail": "Storage and verification of Documents and Photographs"
+				},
+				"field4": {
+					"field": "Events",
+					"detail": "Proof of Attendance and Memorabilia"
+				},
+				"field5": {
+					"field": "Hospitality",
+					"detail": "NFTs as Souvenirs and Loyalty Programme"
+				},
+				"field6": {
+					"field": "Business",
+					"detail": {
+						"detail1": "Guarantee & Warranty Cards",
+						"detail2": "Verified Invoicing",
+						"detail3": "Banking & Insurance Documentation",
+						"detail4": "Inter-department Memos",
+						"detail5": "Supply Chain Management"
+					}
+				},
+				"field7": {
+					"field": "Government",
+					"detail": {
+						"detail1": "Driving License",
+						"detail2": "Passport",
+						"detail3": "Birth Certificate",
+						"detail4": "Death Certificate"
+					}
+				},
+				"field8": {
+					"field": "Employers",
+					"detail": "Verification and Vetting of Credentials"
+				}
+			}
+		},
+		"features": {
+			"heading": "Why BitMemoir?",
+			"subheading": "BitMemoir provides many benefits",
+			"list": {
+				"heading1": "Robust Infrastructure",
+				"heading2": "Seamless Integration",
+				"heading3": "Data Protection",
+				"heading4": "Verifiable Certificates",
+				"heading5": "Bulk Issuance"
+			},
+			"connect": "Connect Now"
+		},
+
+		"FAQ": {
+			"heading": "FAQs",
+			"questions": [
+				{
+					"question": "What is BitMemoir?",
+					"answer": "BitMemoir is a unique blockchain-based platform focusing primarily on negating the possibility of creating fake credentials or fudging the documents. The aim is to develop and nurture an ecosystem of verified documents and journey mapping an individual’s life."
+				},
+				{
+					"question": "How does BitMemoir work?",
+					"answer": "BitMemoir uses blockchain technology to create Non-Fungible Tokens (NFTs) for each certificate issued. These NFTs have a QR code embedded on them, which contains unique information (meta-data) about the certificate, including the issuer, recipient, and timestamp. The certificates can be securely stored in personal digital wallets and easily downloaded and shared with others for verification purposes."
+				},
+				{
+					"question": "How can I issue certificates using BitMemoir?",
+					"answer": "To issue certificates using BitMemoir, you need to first connect the platform with a decentralized wallet and complete the KYC process in order to procure a white-labeled account. On obtaining a white-labeled account, you may upload the certificate template, enter the relevant details, and generate the NFT."
+				},
+				{
+					"question": "What are the benefits of BitMemoir?",
+					"answer": "BitMemoir offers the following benefits:",
+					"subAnswer": [
+						"A) Enhanced security: BitMemoir leverages blockchain technology to ensure that certificates cannot be tampered with or forged.",
+						"B) Easy verification: Certificates can be easily verified by scanning the QR code or accessing the blockchain record.",
+						"C) Portability: Digital certificates can be stored in personal digital wallets and shared with other parties for verification purposes.",
+						"D) Efficient issuance: BitMemoir streamlines the certificate issuance process, saving time and resources for the users.",
+						"E) Transparency: The blockchain record provides a transparent and immutable audit trail of document issuance and verification"
+					]
+				},
+				{
+					"question": "How can I verify a certificate issued through BitMemoir?",
+					"answer": "To verify a certificate, simply scan the QR code on the certificate or enter the blockchain transaction details i.e. the contact address and the token ID in the Verify tab. The verification process will display the certificate details and confirm its authenticity."
+				},
+				{
+					"question": "Can BitMemoir be integrated with existing systems?",
+					"answer": "Yes, BitMemoir provides integration options to seamlessly connect with existing platforms used by your organization. This allows for automatic data synchronization and streamlined certificate issuance. For such integration requirements, write to us at support@beimagine.tech."
+				},
+				{
+					"question": "Is BitMemoir compatible with different types of documents?",
+					"answer": "Yes, BitMemoir can be used to issue and verify a wide range of documents, including academic degrees, diplomas, professional certifications, office memos, event certificates, event tickets, etc. However, the document must be in the JPEG format."
+				},
+				{
+					"question": "Is BitMemoir secure?",
+					"answer": "Yes, BitMemoir employs advanced blockchain technology to ensure the security and integrity of documents. The decentralized nature of blockchain makes it highly resistant to hacking or data manipulation"
+				},
+				{
+					"question": "Can I share my NFTs on social media platforms or professional networks?",
+					"answer": "Yes, with the integration of BitWallet, sharing of NFTs on social media platforms and professional networks becomes fairly easy."
+				}
+			],
+			"videoLink": "https://www.youtube.com/embed/YvG1yNJhu0E"
+		}
+	},
+	"kycPage": {
+		"kycStatus": {
+			"notCompleted": "You have not completed your KYC",
+			"startkyc": "Start KYC",
+			"in_progress": {
+				"heading": "Your KYC approval is pending",
+				"heading1": "For more support:",
+				"heading2": "Email us at hello@beimagine.tech"
+			},
+			"approved": {
+				"heading": "KYC Approved"
+			},
+			"rejected": {
+				"heading": "Your KYC was Rejected.",
+				"heading1": "Reason:",
+				"heading2": "For more support:",
+				"heading3": "Email us at hello@beimagine.tech",
+				"restartkyc": "Restart KYC"
+			},
+			"revoked": {
+				"heading": "Your KYC approval has been revoked.",
+				"heading1": "Reason:",
+				"heading2": "For more support:",
+				"heading3": "Email us at hello@beimagine.tech",
+				"restartkyc": "Restart KYC"
+			}
+		},
+		"kycForm": {
+			"heading": "Enter Your KYC Details",
+			"nameLabel": "Name of the Company/Institution*",
+			"namePlaceholder": "Name of the Organization",
+			"desciptionLabel": "Description*",
+			"desciptionPlaceholder": "Description of the Organization",
+			"countryLabel": "Country*",
+			"countryPlaceholder": "Country",
+			"officialWebsiteLabel": "Official Website*",
+			"officialWebsitePlaceholder": "Official Website",
+			"subheading": "Information about the representative",
+			"nameOfissuerLabel": "Name*",
+			"nameOfissuerPlaceholder": "Name",
+			"lastnameOfissuerLabel": "Surname*",
+			"lastnameOfissuerPlaceholder": "Surname",
+			"designationOfissuerLabel": "Designation *",
+			"designationOfissuerPlaceholder": "Designation",
+			"officialEmailLabel": "Official email ID*",
+			"officialEmailPlaceholder": "Official email ID",
+			"officialPhoneLabel": "Official Phone Number*",
+			"officialPhonePlaceholder": "Official Phone Number",
+			"idProofOfRepresentativeLabel": "ID Proof of the Representative*",
+			"subheadingnote": "Information about the approving authority",
+			"Upload_the_Note": "Upload the Note(signed by highest authorities)*",
+			"Sample_Form": "Sample Form",
+			"download": "Download Form Sample",
+			"add_approving_authority": "Add Approving Authority",
+			"add_approving_authority_heading": "Approving authorities have to approve any document issuance via email.",
+			"approve_authority_name": "Name",
+			"approve_authority_lastname": "Surname",
+			"approve_authority_email": "Email",
+			"approve_authority_Designation": "Designation",
+			"remove": "Remove",
+			"uploading": "Uploading...",
+			"add_approver": "Add Approver",
+			"add": "Add",
+			"submit": "Submit KYC",
+			"id_proof_of_authority": "ID Proof of the Approving Authority*"
+		}
+	},
+	"Individuals": {
+		"create": "Create Your Digital Certificate",
+		"uploadImage": "Upload Image*",
+		"assetNameLabel": "Asset Name*",
+		"assetNamePlaceholder": "Enter Asset Name",
+		"descriptionLabel": "Description",
+		"uploading": "Uploading...",
+		"submitBtn": "Submit",
+		"instructions": "Note: It is advised not to upload your government-issued identification on BitMemoir. Aba’ad Alkhayal and its associated personnel will not be liable or responsible for misuse of such critical personal information at any point in time.",
+		"requirements": {
+			"assetName": "Asset name is required",
+			"assetDescription": "Asset description is required",
+			"invalidAddress": "Invalid Recipient Address",
+			"image": "Image is required",
+			"invalidImage": "Invalid Image",
+			"fileSize": "File should be less than 100mb in size",
+			"storageExceeded": "Storage quota exceeded. Please select a smaller file or contact support@beimagine.tech for more storage space.",
+			"uploadSuccess": "Uploaded Successfully",
+			"uploadFailure": "Something went wrong. Please try again."
+		},
+		"gbused": "GB used out of",
+		"gb": "GB",
+		"searchingNft": "Searching NFT....",
+		"nftNotFound": "NFT Not Found"
+	},
+	"Institutions": {
+		"LandingPage": {
+			"Navbar": {
+				"Heading": "Institutions"
+			}
+		},
+		"certCreator": {
+			"variableOptions": [
+				"Student Name",
+				"Mother Name",
+				"Enrollment No",
+				"Obtained Marks",
+				"Obtained Grades",
+				"Total Marks",
+				"CGPA",
+				"Percentage",
+				"Evaluated By",
+				"Approved By",
+				"Program Name",
+				"Program Duration",
+				"Course Name",
+				"Batch Name",
+				"Batch Code",
+				"Batch Start Date",
+				"Batch End Date",
+				"Batch Duration",
+				"Module",
+				"Hall Admit Number",
+				"Division",
+				"Department Name",
+				"School Name",
+				"Organizational Name",
+				"Issued Date",
+				"Signatory Name",
+				"Signatory Designation"
+			],
+			"CustomVariable": "Other (specify)",
+			"heading": "Template Creator",
+			"selectVariable": "Select Variable",
+			"addVariable": "Add Variable",
+			"templateName": "Template Name",
+			"variableName": "Variable Name",
+			"next": "Next"
+		},
+		"certDesigner": {
+			"heading": "Certificate Designer",
+			"edit": "Click anywhere to edit",
+			"bgcolor": "Background Color",
+			"fontcolor": "Background Color"
+		},
+		"education": {
+			"headingRecentlyUsed": "Recently Used",
+			"headingFreeTemplates": "Free Templates",
+			"headingPremiumTemplates": "Premium Templates",
+			"createCustomTemplate": "Create Custom Template",
+			"more": "More",
+			"createNewTemplate": "Create New Template",
+			"selectTemplate": "Select Template",
+			"selectTemplatePlaceholder": "Select a ready-made template from the templates section",
+			"or": "OR",
+			"degreeCertificates": "Degree Certificates",
+			"diplomaCertificates": "Diploma Certificates"
+		},
+		"templateCert": {
+			"enterPreviewValue": "Enter Preview Values",
+			"next": "Next",
+			"back": "Back",
+			"enter": "Enter",
+			"save": "Save",
+			"preview": "Preview",
+			"issue": "Issue",
+			"readymadetemplate": "Ready-made templates"
+		},
+		"certIssue": {
+			"sno": "S.No.",
+			"recipient": "Recipient",
+			"recipientAddress": "Recipient Address",
+			"recipientEmail": "Recipient Email",
+			"status": "Status",
+			"tokenId": "tokenId",
+			"download": "Download",
+			"ok": "Ok",
+			"preview": "Certificate Preview",
+			"heading": "Issue Certificates",
+			"issueAll": "Issue All",
+			"issueAllCertificates": "Issue All Certificates",
+			"closeSpreadsheet": "Close Spreadsheet",
+			"alreadyExcelsheet": "Already have an Excel sheet prepared?",
+			"copypagesheet": "Copy/Paste from Excel/Spreadsheet",
+			"NoOfCert": "Number of Certificates",
+			"enterValues": "Enter individual values next",
+			"file": "File",
+			"note": "Note : This is Essential certificates you need Approver Permission",
+			"certlmitexceed": " Certificate limit exceeded. Current limit",
+			"increaselmtBtn": "Increase Limit",
+			"uploadCSV": "Upload Student Data file (CSV Format)",
+			"downloadsCSV": "Download CSV template",
+			"nextbtn": "Next",
+			"backbtn": "Back",
+			"headingCloseWindow": "You can close the window.",
+			"issuingCertificates": "Issuing Certificates..."
+		},
+		"badgeIssue": {
+			"heading": "Issue Badges",
+			"selectBadge": "Select Badge:",
+			"NoOfBadges": "No of badges:"
+		},
+		"approval": {
+			"heading": "Certificate is pending approval from the following approvers:",
+			"name": "Name : ",
+			"designation": "Designation : ",
+			"email": "Email : ",
+			"approving": "Approving...",
+			"approvedCertsIssued": "Approved. Certificates issued successfully",
+			"approved": "Approved."
+		}
+	},
+	"view": {
+		"view": {
+			"heading": "No NFTs found.",
+			"mydigitalCollection": "My Digital Collection",
+			"membership": "Membership :",
+			"membershipExpiryDate": "Membership Expiry Date :"
+		},
+		"create": "Create NFTs",
+		"script": {
+			"loading": "Loading Certificates...",
+			"error": "Something went wrong fetching NFTs"
+		}
+	},
+	"Dashboard": {
+		"contentDashboard": {
+			"name": "Name",
+			"email": "Email",
+			"Website": "Website",
+			"Issuer_Name": "Issuer Name",
+			"Issuer_Designation": "Issuer Designation",
+			"Status": "Status",
+			"IdProof": "Id Proof",
+			"contractAddress": "Contract Address",
+			"accountAddress": "Account Address",
+			"CurrentPlan": "Current Plan",
+			"account": "Account",
+			"description": "Description",
+			"regId": "Reg. ID",
+			"personalStorage": "Personal Storage"
+		},
+		"sidebar": {
+			"dashboard": "Dashboard",
+			"PrimaryDetails": "Primary Details",
+			"Analytics": "Analytics"
+		},
+		"KPI": {
+			"totalCertificates": "Total Certificates Issued",
+			"totalSouvenirs": "Total Souvenirs Issued"
+		},
+		"frames": {
+			"error": "Something went wrong, Please try again.",
+			"newFrame": "Add New Frame",
+			"selectFrame": "Select Frame",
+			"frameName": "Frame Name",
+			"saveFrame": "Save Frame",
+			"souvenirFrames": "Souvenir Frames",
+			"addFrame": "Add Frame",
+			"certificateTemplate": "Certificate Templates"
+		}
+	},
+	"connection": {
+		"connection": {
+			"heading": "Please connect your wallet",
+			"subheading": "This won't cost you any gas.",
+			"connect-btn": "Connect Wallet"
+		},
+		"noWallet": {
+			"heading": "Seems like you don't have a blockchain wallet installed.",
+			"download-btn": "Download Metamask",
+			"subheading": "A blockchain wallet is your entry to the WEB3.0 world.",
+			"learnmore-btn": "Learn more about metamask:"
+		}
+	},
+	"Verify": {
+		"heading": "Verify Certificates",
+		"subheading": "Enter certificate details below.",
+		"subheadingtext": "(Certificate details can be found on the certificate file along side the QR code.)",
+		"Contract_Address": "Contract Address:",
+		"Verify": "Verify",
+		"tokenId": "Token Id",
+		"tokenIdPlaceholder": "Enter token Id",
+		"contractAddressPlaceholder": "Enter address. e.g. 0xbff6CbaE23f790826f4209438752bd269e63e8c5"
+	},
+	"VerifyDetails": {
+		"Verified": "Verified",
+		"Contract_Address": "Contract Address :",
+		"Token_Id": "Token Id :",
+		"Download": "Download",
+		"IssuedBy": "Issued by:",
+		"Recipient": "Recipient :",
+		"Verifying": "Verifying...",
+		"Could_not_Verify": "Could not Verify.",
+		"verified": "Verified",
+		"unverified": "Unverified",
+		"pending": "Verification Pending"
+	},
+	"Bitwallet": {
+		"heading1": "A crypto wallet &",
+		"heading2": "gateway to",
+		"heading3": "blockchain World",
+		"subheading": "Enhance your user experience with BitWallet, the key to the blockchain world",
+		"download": "Download Now",
+		"heading4": "Use as a browser extension or mobile app",
+		"subheading4": "Available as a browser extension and as a mobile app, BitWallet equips you with a key vault, secure login, simple NFT, and Crypto storage and transfer.",
+		"heading5": "Security for your digital assets",
+		"subheading5": "BitWallet generates passwords and keys on your device, so only you have access to your accounts and data. Assistance navigating through various decentralized websites and blockchain apps.",
+		"heading6": "Zero downtime",
+		"subheading6": "Protection of your keys through encryption",
+		"bitwalletDwnld": "BitWallet Download",
+		"downloadChromeheading": "Download Chrome extension for Desktop",
+		"downloadIoSheading": "Download Ios application",
+		"downloadAndroidheading": "Download Android application",
+		"downloadFor": "Download for",
+		"whatIsBitwallet": "What is BitWallet?",
+		"whyChooseBitwallet": {
+			"heading": "Why choose BitWallet?",
+			"subheading": "A more secure and transparent wallet",
+			"Dataprotection": "Data protection",
+			"RobustInfrastructure": "Robust Infrastructure",
+			"Decentralized": "Decentralized",
+			"Verifiedandsecuretouse": "Verified and secure to use",
+			"EasytoUse": "Easy to Use",
+			"SupportAssets": "Support Assets"
+		}
+	},
+	"RoadMap": {
+		"heading": "BITMEMOIR ROADMAP 2023",
+		"subheading": "We are working hard to make BitWallet the best crypto wallet in the world. Here is a sneak peek of what we are working on.",
+		"roadmap": {
+			"Q2": {
+				"heading": "2023 Quarter 2",
+				"point1": "Community Building",
+				"point2": "White Paper Release",
+				"point3": "BitMemoir Mainnet on Polygon",
+				"point4": "BitWallet Mainnet on Polygon",
+				"point5": "Partnerships Line Up"
+			},
+			"Q3": {
+				"heading": "2023 Quarter 3",
+				"point1": "BitMemoir Token IDO Launch on Arbitrum",
+				"point2": "BitMemoir Token Dex Listing",
+				"point3": "BitMemoir Token Cex Listing",
+				"point4": "BitWallet Token IDO Launch on Arbitrum",
+				"point5": "BitWallet Multichain support",
+				"point6": "Partnerships Announcements - 10 plus"
+			},
+			"Q4": {
+				"heading": "2023 Quarter 4",
+				"point1": "Marketing",
+				"point2": "More Adoption of Bitmemoir and Bitwallet",
+				"point3": "BitWallet integration with other Dapps",
+				"point4": "BitWallet will support more chains",
+				"point5": "New NFT Utility Features on Bitmemoir",
+				"point6": "Listing in Major CEX"
+			}
+		}
+	},
+	"Team": {
+		"heading": "Founding Team",
+		"subheading": "Our Team",
+		"hr": "Human Resource",
+		"bd": "BD Executive",
+		"marketing": "Marketing Executive",
+		"ceo": "Founder and CEO",
+		"socialMedia": "Social Media Manager",
+		"hrConsultant": "HR Consultant",
+		"BlockchainDeveloper": "Blockchain Developer"
+	},
+	"ComingSoon": "Coming Soon...",
+
+	"Aboutus": {
+		"main": "About us",
+		"head": "Our Vision is to solve the current, growing trust crisis and increase the credibility of the web.",
+		"content": "Beyond Imagination Technologies (BIT) was founded as India's first startup with the idea of ​​nurturing Blockchain/Web3 technology and creating cost-effective, safe, and secure solutions that fit the needs of the market. BIT seeks to address the main problems of the market in all possible aspects and in multiple sectors, extending its reach to all corners of the world.",
+		"button": "View More"
+	},
+	"dNFT": {
+		"sno": "S.No.",
+		"nft": "NFT",
+		"heading": "Dynamic NFT Certificates",
+		"Batch": "Batch",
+		"BatchName": "Batch Name",
+		"BatchDescription": "Batch Description",
+		"BatchImage": "Batch Image",
+		"Create_New_Batch": "Create New Batch",
+		"Update_Batch": "Update Batch",
+		"Batch_List": "Batch List",
+		"Please_Select_Batch.......": "Please Select Batch.......",
+		"batchCreatedSuccessfully": "Batch Created Successfully",
+		"Current_batch_image": "Current batch image",
+		"uploadNewNFTImage": "Upload New NFT Image",
+		"update": "Update",
+		"StudentList": "Student List",
+		"address": "Address",
+		"status": "Status",
+		"TokenId": "Token Id",
+		"dynamicIssuedSucessfully": "Dynamic NFT Issued Successfully",
+		"CertificateOderSentForApproval": "Certificate Order Sent For Approval",
+		"createYourBatch": "Create Your Batch",
+		"NumberOfStudents": "Number Of Students",
+		"uploadNFTImage": "Upload NFT Image",
+		"OderhasbeenSubmittedPleaseCheckinFewMinutes": "Order has been Submitted Please Check in Few Minutes",
+		"DynamicNFTCertificate": "Dynamic NFT Certificate",
+		"CreateNewNFT": "Create New NFT",
+		"UpdateNFT": "Update NFT",
+		"NFTList": "NFT List",
+		"Please_Select_NFT.......": "Please Select NFT.......",
+		"search": "Search",
+		"selectAnotherNFT": "Select Another NFT",
+		"walletAddress": "Wallet Address",
+		"Current_NFT_image": "Current NFT image",
+		"nftUpdatedSuccessfully": "NFT Updated Successfully",
+		"Erroredpleasetryagain": "Errored please try again",
+		"NFTDescription": "NFT Description",
+		"ok": "Ok",
+		"alert": {
+			"upgradePlan": "Please upgrade your plan.",
+			"exceeded": "You have exceeded your quota. Please upgrade your plan.",
+			"nftIssued": "Student NFT issued successfully."
+		},
+		"batchUpdatedSuccessfully": "Batch Update Successfully",
+		"updatingBatch": "Updating Batch....",
+		"certificatesIssuedSuccessfully": "Certificates Issued Successfully"
+	},
+	"tryforfree": {
+		"requiredFields": "* marked fields are required.",
+		"submitting": "Submitting. Please wait...",
+		"thankYou": "Thank you for choosing bitmemoir. Our representative will contact you shortly.",
+		"somethingWentWrong": "Something went wrong. Please contact us at support@beimagine.tech",
+		"signup": "Sign-up to get Free Certificates",
+		"firstName": "First Name",
+		"enterfirstname": "Enter First Name...",
+		"lastName": "Last Name",
+		"enterlastname": "Enter Last Name",
+		"designation": "Designation",
+		"enterdesignation": "Enter Designation...",
+		"email": "Email",
+		"enteremail": "Enter Email...",
+		"organization": "Organization",
+		"enterorganization": "Enter the organization's name",
+		"contact": "Contact Number",
+		"enterContact": "Enter phone number...",
+		"country": "Country",
+		"entercountry": "Enter country...",
+		"enter": "Enter",
+		"submittedSuccessfully": "Submitted Successfully",
+		"maximum3": "Maximum 3 approvers are allowed."
+	},
+	"scripts": {
+		"dnd": {
+			"heading": "Drag & Drop File here",
+			"or": "or",
+			"browse": "Browse Files"
+		}
+	},
+	"learnmore": {
+		"destination": {
+			"heading": "How to use BitMemoir",
+			"subheading": "For hotels, resorts, events, and travel destinations.",
+			"infotext": [
+				{
+					"text": "The destination shall contact us for issuing souvenirs."
+				},
+				{
+					"text": "After vetting, BIT will deploy a smart contract for the destination."
+				},
+				{
+					"text": "The destination shall provide an image frame which shall be applied on the souvenir pics automatically."
+				},
+				{
+					"text": "BIT will add the destination as a verified souvenir issuer."
+				},
+				{
+					"text": "The destination can then simply login to the BitMemoir web application with their wallet."
+				},
+				{
+					"text": "The destination will be able to issue souvenirs by uploading their guest's picture (taken on the campus)."
+				},
+				{
+					"text": "The destination will acquire the wallet address of their guests and enter the guest's wallet address while issuing souvenirs. If the guests don't have a wallet address, the destination shall ask the guest to download the BIT-Wallet. BIT-Wallet will generate a wallet address for the guests."
+				}
+			]
+		},
+		"individual": {
+			"subheading": "For Individuals",
+			"infotext": "Individual users can simply go to the BitMemoir web application, sign-in with a blockchain wallet, and start uploading their files. The uploaded files can be viewed or downloaded from the BitMemoir web application."
+		},
+		"institute": {
+			"subheading": "For educational institutions including schools, colleges, and universities.",
+			"infotext": [
+				{
+					"text": "The institute shall contact us for issuing certificates."
+				},
+				{
+					"text": "BIT will vet the institute by demanding legal paperwork."
+				},
+				{
+					"text": "After vetting, BIT will deploy a smart contract for the institute."
+				},
+				{
+					"text": "The institute shall provide the content of the certificate. The template of the certificate along with the dynamic entries and a list of certificate recipients along with their wallet addresses. BIT will help the institute by providing certificate templates and data formats."
+				},
+				{
+					"text": "BIT will create the certificates, mint an NFT for each certificate and transfer the ownership to the recipient."
+				},
+				{
+					"text": "The recipients can view or download their certificates at the BitMemoir web application or BIT-Wallet."
+				}
+			]
+		}
+	},
+	"contact": {
+		"reachout": "Reach out to us at :",
+		"locationText": "Location :",
+		"company": "Beyond Imagination Tech LLC",
+		"building": "M03 Laffa restaurant building,",
+		"address": "Sheikh Khalifa Bin Zayed St - opp. Burjuman Mall,",
+		"country": "Dubai, United Arab Emirates",
+		"supportEmail": "support@beimagine.tech",
+		"marketingEmail": "marketing@beimagine.tech",
+		"checkSocial": "Check out our social:"
+	},
+	"souvenir": {
+		"addFrame": {
+			"status": {
+				"error": "Something went wrong, Please try again."
+			}
+		},
+		"souvenir": {
+			"welcome": "Welcome",
+			"totalSouvenirs": "Souvenirs issued so far",
+			"give": "Give out Souvenirs",
+			"uploadImage": "Upload Image*",
+			"frame": "Souvenir Frame",
+			"none": "None",
+			"addFrame": "Add Frame",
+			"souvenirName": "Souvenir Name*",
+			"souvenirNamePlaceholder": "Enter Souvenir Name",
+			"recipientWalletAddress": "Recipient Wallet Address",
+			"recipientWalletAddressPlaceholder": "EnterRecipient Wallet Address",
+			"recipientEmail": "Recipient Email Address",
+			"recipientEmailAddressPlaceholder": "Enter Recipient Email Address",
+			"uploading": "Uploading..."
+		}
+	},
+	"loyalty": {
+		"alert": {
+			"walletAddress": "Please enter wallet address",
+			"selectImage": "Please select image",
+			"expiryMembership": "Please enter the expiry date of membership",
+			"reward": "Please enter reward",
+			"expiryReward": "Please enter expiry date of reward",
+			"noNftQuota": "You have no NFT quota left. Please subscribe to get more NFT quota.",
+			"waiting": "Waiting for the transaction to be mined...",
+			"success": "NFT issued successfully",
+			"failure": "NFT not issued",
+			"claimedSuccess": "Reward claimed successfully",
+			"claimedFailure": "Reward not claimed",
+			"updateSuccess": "NFT update successfully",
+			"updateFailure": "NFT update failed"
+		},
+		"issue": {
+			"walletAddress": "Wallet Address : ",
+			"walletAddressPlaceholder": "Wallet Add. e.g.0xbff6CbaE..",
+			"image": "Image for NFT : ",
+			"membership": "Membership",
+			"regular": "REGULAR",
+			"premium": "PREMIUM",
+			"expiryMembership": "Expiry Date of Membership",
+			"reward": "Reward",
+			"yes": "YES",
+			"no": "NO",
+			"expiryReward": "Expiry Date of Reward",
+			"issue": "Issue NFT",
+			"rewardPlaceholder": "eg. 10% off",
+			"issueDate": "Issue Date"
+		},
+		"nftLoyalty": {
+			"heading": "Welcome to dNFT Reward/Loyalty Program",
+			"issueClick": "For Issue NFT Please Click on 'Issue NFT'",
+			"viewClick": "For View NFT Please Click on 'View NFT'",
+			"updateClick": "For Update NFT Please Click on 'Update NFT'",
+			"issue": "Issue NFT",
+			"view": "View NFT",
+			"update": "Update NFT"
+		},
+		"qr": {
+			"scan": "Scan QR code"
+		},
+		"rewardTable": {
+			"date": "Date",
+			"reward": "Reward",
+			"redeem": "Redeem",
+			"expiry": "Expiry Date",
+			"action": "Action"
+		}
+	},
+	"privacyPolicy": {
+		"heading": "Privacy Policy",
+		"desc": "This privacy policy (\"Policy\") describes how Beyond Imagination Technologies Private Limited (Company, we, our, or us) collects, uses, shares, and stores personal information of users of its websites.",
+		"sites": "(the \"Sites\").",
+		"legalReference": "[SM-Legal1]",
+		"servicesDesc": "This Policy applies to the Sites, applications, products, and services (collectively, \"Services\") on or in which it is posted, linked, or referenced.",
+		"acceptanceDesc": "By using the Services, you accept the terms of this Policy and our Terms of Use, and consent to our collection, use, disclosure, and retention of your information as described in this Policy. If you have not done so already, please also review our terms of use. The terms of use contain provisions that limit our liability to you and require you to resolve any dispute with us on an individual basis and not as part of any class or representative action. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR TERMS OF USE, THEN PLEASE DO NOT USE ANY OF THE SERVICES.",
+		"thirdPartyDesc": "Please note that this Policy does not apply to information collected through third-party websites or services that you may access through the Services or that you submit to us through email, text message, or other electronic message or offline.",
+		"whatWeCollectHeading": "WHAT WE COLLECT",
+		"whatWeCollectDesc": "We get information about you in a range of ways.",
+		"informationYouGiveUs": "Information You Give Us.",
+		"informationWeCollect": "Information we collect from you may include:",
+		"identityInfo": "Identity information, such as your first name, last name, username or similar identifier, title, date of birth, and gender;",
+		"contactInfo": "Contact information, such as your postal address, email address, and telephone number;",
+		"profileInfo": "Profile information, such as your username and password, interests, preferences, feedback, and survey responses;",
+		"feedbackCorrespondence": "Feedback and correspondence, such as information you provide in your responses to surveys, when you participate in market research activities, report a problem with Service, receive customer support, or otherwise correspond with us;",
+		"financialInfo": "Financial information, such as your credit card or other payment card details;",
+		"transactionInfo": "Transaction information, such details about purchases you make through the Service and billing details;",
+		"usageInfo": "Usage information, such as information about how you use the Service and interact with us;",
+		"marketingInfo": "Marketing information, such as your preferences for receiving marketing communications and details about how you engage with them;",
+		"financialInfo2": "Financial information, such as bank account number and bank routing number; financial assets holdings;",
+		"technicalInfo": "Technical information, such as your Ethereum wallet address, application programming interface (API)-key and network information regarding transactions. Please note that your Ethereum wallet address is not collected by https://metamask.io/ or associated plugins and mobile applications (\"BIT-wallet\").",
+		"furtherInformationTitle": "Further Information You Give Us In Relation to the BIT Site and BIT Services.",
+		"furtherInformationIntro": "Further information we collect from you in relation to https://www.beimagine.tech (the \"BIT Site\") and BIT Services may include:",
+		"identityInfo2": "Further identity information, such as your country of birth, nationality, social security number, place of birth, employer, and occupation;",
+		"passportInfo": "Passport and/or photo ID for identity verification purposes;",
+		"amlInfo": "Information required to comply with anti-money laundering (AML) laws and know-your-customer (KYC) requirements (such as nationality and place of birth);",
+		"sourceOfFunds": "Source of funds for participating in token launches;",
+		"tokenHoldingsInfo": "Information that you give us in relation to your purchased token holdings, such as earnings received from staking, and the number of tokens in your wallet.",
+		"informationFromOthersTitle": "Information We Get From Others.",
+		"informationFromOthersIntro": "We may get information about you from other third-party sources, and we may add this to information we get from your use of the Services. Such information may include:",
+		"ssoRegistrationTitle": "Registration using Single Sign-On Account",
+		"ssoRegistrationInfo": "When registering some user accounts (e.g., with the BIT Site), you also have the option of using a single sign-on account (\"SSO\"). With an SSO, you can sign up for various different services and platforms with a single account. Some of our Sites currently offer you the opportunity to use the SSO services offered by Google, LLC, Amphitheatre Parkway, Mountain View, CA 94043, USA (\"Google\"). Google's Privacy Policy and Terms of Use apply to the registration and use of the Google SSO service, see https://policies.google.com/privacy/. Please note that the registration for and the use of SSO services are subject to the Google privacy policy and terms of use, which are beyond our control.",
+		"googlePrivacyPolicy": "Google's Privacy Policy",
+		"ssoRegistrationNote": "Note: The registration for and the use of SSO services are subject to the Google privacy policy and terms of use, which are beyond our control.",
+		"infoAutomaticallyCollectedTitle": "Information Automatically Collected.",
+		"infoAutomaticallyCollectedIntro": "We may automatically record certain information about how you use our Sites (we refer to this information as \"Log Data\"). Log Data may include information such as a user's Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Sites to which a user browsed and the time spent on those pages or features, the frequency with which the Sites are used by a user, search terms, the links on our Sites that a user clicked on or used, and other statistics. We use this information to administer the Service, and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users' needs and preferences.",
+		"cookiesIntro": "We may use cookies, local storage or similar technologies to analyze trends, administer the Sites, track users' movements around the Sites, and to gather demographic information about our user base as a whole. Users can control the use of cookies and local storage at the individual browser level. For more information, please see our",
+		"cookiesPolicy": "Cookies Policy",
+		"cookiesEnd": ".",
+		"googleAnalyticsIntro": "We also may use Google Analytics to help us offer you an optimized user experience. You can find more information about Google Analytics use of your personal data here:",
+		"googleAnalyticsLink": "https://www.google.com/analytics/terms/us.html",
+		"googleAnalyticsNote": ". Please note that Metamask does not use Google Analytics in its wallet.",
+		"eventTrackingToolIntro": "We use ________, an event tracking tool, in some of our Services in order to better understand how you are using the Sites. You can find more information about the tool's use of your personal data ",
+		"eventTrackingToolLink": "here: ______________.",
+		"serviceOptimizationIntro": "We use ______ in some of our Services in order to better understand our users' needs and to optimize this service and experience. ______ is a technology service that helps us better understand our users' experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don't like, etc.) and this enables us to build and maintain our service with user feedback. ______ uses cookies and other technologies to collect data on our users' behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our Sites). _______ stores this information in a pseudonymized user profile. Neither _______ nor we will ever use this information to identify individual users or to match it with further data on an individual user. Please note that BIT-Wallet does not use _______.",
+		"serviceOptimizationLink": "[SM-Legal2]",
+		"informationNotCollectedTitle": "Information we will never collect",
+		"informationNotCollectedIntro": "We will never ask you to share your private keys or wallet seed. Never trust anyone or any site that asks you to enter your private keys or wallet seed.",
+		"useOfPersonalInformationTitle": "USE OF PERSONAL INFORMATION",
+		"provideServiceTitle": "To provide our service",
+		"personalInformationUsageIntro": "We will use your personal information in the following ways:",
+		"enableAccessAndUse": "To enable you to access and use the Services",
+		"deliverProductsAndServices": "To provide and deliver products and services that you may request.",
+		"processAndCompleteTransactions": "To process and complete transactions, and send you related information, including purchase confirmations and invoices",
+		"sendInformation": "To send information, including confirmations, technical notices, updates, security alerts, and support and administrative messages.",
+		"complyWithLawTitle": "To comply with the law",
+		"complyWithLawIntro": "We use your personal information as we believe necessary or appropriate to comply with applicable laws (including anti-money laundering (AML) laws and know-your-customer (KYC) requirements), lawful requests and legal process, such as to respond to subpoenas or requests from government authorities.",
+		"communicateWithTitle": "To communicate with you",
+		"communicateWithIntro": "We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners.",
+		"optimizePlatformTitle": "To optimize our platform",
+		"optimizePlatformIntro": "In order to optimize your user experience, we may use your personal information to operate, maintain, and improve our Services. We may also use your information to respond to your comments and questions regarding the Services, and to provide you and other users with general customer service.",
+		"withYourConsentTitle": "With your consent",
+		"withYourConsentIntro": "We may use or share your personal information with your consent, such as when you consent to let us post your testimonials or endorsements on our Sites, you instruct us to take a specific action with respect to your personal information, or you opt into third-party marketing communications.",
+		"complianceTitle": "For compliance, fraud prevention, and safety",
+		"complianceIntro": "We may use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.",
+		"sharingOfPersonalInformationTitle": "SHARING OF PERSONAL INFORMATION",
+		"sharingOfPersonalInformationIntro": "We do not share the personal information that you provide us with other organizations without your express consent, except as described in this Privacy Policy. We disclose personal information to third parties under the following circumstances:",
+		"affiliatesTitle": "Affiliates.",
+		"affiliatesIntro": "We may disclose your personal information to our subsidiaries and corporate affiliates (i.e. our family of companies that are related by common ownership or control) for purposes consistent with this Privacy Policy.",
+		"businessTransfersTitle": "Business Transfers.",
+		"businessTransfersIntro": "We may share personal information when we do a business deal or negotiate a business deal involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.",
+		"complianceWithLawsTitle": "Compliance with Laws and Law Enforcement; Protection and Safety.",
+		"complianceWithLawsIntro": "We may share personal information for legal, protection, and safety purposes.",
+		"complyWithKYCAML": "We may share information to comply with laws, including KYC and AML requirements.",
+		"respondToRequests": "We may share information to respond to lawful requests and legal processes.",
+		"protectRightsAndProperty": "We may share information to protect the rights and property of the Company, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.",
+		"emergencySituation": "We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.",
+		"professionalAdvisorsTitle": "Professional Advisors and Service Providers.",
+		"professionalAdvisorsIntro": "We may share information with those who need it to do work for us. These recipients may include third-party companies and individuals to administer and provide the Service on our behalf (such as bill and credit card payment processing, customer support, hosting, email delivery, and database management services), as well as lawyers, bankers, auditors, and insurers.",
+		"otherTitle": "Other.",
+		"otherIntro": "You may permit us to share your personal information with other companies or entities of your choosing. Those uses will be subject to the privacy policies of the recipient entity or entities.",
+		"aggregatedData": "We may also share aggregated and/or anonymized data with others for their own uses.",
+		"internationalTransferTitle": "INTERNATIONAL TRANSFER",
+		"internationalTransferIntro": "The Company has offices only in India and endeavors to provide its Services at a global level. Your personal information will never be transferred to or from India outside of your state, province, country, or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction.",
+		"informationSecurityTitle": "HOW INFORMATION IS SECURED",
+		"informationSecurityIntro": "We retain the information we collect as long as it is necessary and relevant to fulfill the purposes outlined in this privacy policy. In addition, we retain personal information to comply with applicable law where required, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, enforce our Terms of Use, and other actions permitted by law. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information, and whether we can achieve those purposes through other means, and the applicable legal requirements.",
+		"retentionOfInformation": "In some circumstances, we may anonymize your personal information (so that it can no longer be associated with you) in which case we may use this information indefinitely without further notice to you.",
+		"securityMeasures": "We employ industry-standard security measures designed to protect the security of all information submitted through the Services. However, the security of information transmitted through the internet can never be guaranteed. We are not responsible for any interception or interruption of any communications through the internet or for changes to or losses of data. Users of the Services are responsible for maintaining the security of any password, biometrics, user ID, or other form of authentication involved in obtaining access to password-protected or secure areas of any of our digital services. In order to protect you and your data, we may suspend your use of any of the Services, without notice, pending an investigation if any breach of security is suspected.",
+		"informationChoicesAndChangesTitle": "INFORMATION CHOICES AND CHANGES",
+		"accessUpdateDeleteInfoTitle": "Accessing, Updating, Correcting, and Deleting your Information",
+		"accessUpdateDeleteInfoIntro": "You may access information that you have voluntarily provided through your account on the Services, and to review, correct, or delete it by sending a request to support@beimagine.tech. You can request to change contact choices, opt-out of our sharing with others, and update your personal information and preferences.",
+		"trackingTechnologiesTitle": "Tracking Technologies Generally",
+		"regularCookies": "Regular cookies may generally be disabled or removed by tools available as part of most commercial browsers and in some instances blocked in the future by selecting certain settings.",
+		"googleAnalyticsTitle": "Google Analytics",
+		"googleAnalyticsIntro2": "You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout and downloading the Google Analytics Opt-out Browser Add-on.",
+		"contact_information": "CONTACT INFORMATION",
+		"contact_information_content": "We welcome your comments or questions about this Policy, and you may contact us at: support@beimagine.tech.",
+		"changes_to_policy": "CHANGES TO THIS PRIVACY POLICY",
+		"changes_to_policy_content": "We may change this privacy policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any changes, we will change the Last Updated date above.",
+		"modifications_effective": "Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the changes to the Sites (or as otherwise indicated at the time of posting). In all cases, your continued use of the Sites or Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.",
+		"eligibility": "ELIGIBILITY",
+		"eligibility_content": "If you are under the age of majority in your jurisdiction of residence, you may use the Services only with the consent of or under the supervision of your parent or legal guardian. Consistent with the requirements of the Information & Technology Act, 2002 as well as other laws prevalent in India, if we learn that we have received any information directly from a child below the age of 18 without first receiving his or her parent's verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Sites and subsequently we will delete that information.",
+		"notice_to_all_persons": "NOTICE TO ALL PERSONS",
+		"personal_information": "Personal Information",
+		"personal_information_content": "With respect to 'personal information,' as used in this Privacy Policy, is equivalent to 'personal data' as defined in the European Union General Data Protection Regulation (GDPR).",
+		"sensitive_data": "Sensitive Data",
+		"sensitive_data_content": "Some of the information you provide us may constitute sensitive data as defined in the GDPR (also referred to as special categories of personal data), including identification of your race or ethnicity on government-issued identification documents.",
+		"legal_bases_for_processing": "Legal Bases for Processing",
+		"legal_bases_for_processing_content": "We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal bases under which we process your personal information, contact us at support@beimagine.tech.",
+		"processing_purpose": "Processing Purpose",
+		"legal_basis": "Legal Basis",
+		"provide_service": "To provide our service",
+		"provide_service_legal_basis": "Our processing of your personal information is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Service.",
+		"communicate_optimize_platform1": "To communicate with you",
+		"communicate_optimize_platform2": "To optimize our platform",
+		"communicate_optimize_platform3": "For compliance, fraud prevention, and safety",
+		"communicate_optimize_platform_legal_basis": "These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impacts on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by any adverse impact on you (unless we have your consent or are otherwise required or permitted to by law).",
+		"comply_with_law": "To comply with the law",
+		"comply_with_law_legal_basis": "We use your personal information to comply with applicable laws and our legal obligations, including anti-money laundering (AML) laws and know-your-customer (KYC) requirements.",
+		"with_your_consent": "With your consent",
+		"with_your_consent_legal_basis": "Where our use of your personal information is based upon your consent, you have the right to withdraw it anytime in the manner indicated in the Service or by contacting us at support@beimagine.tech.",
+		"contact_information2": "use for new purposes",
+		"contact_information_content2": "We may use your personal information for reasons not described in this Privacy Policy...",
+		"your_rights": "your rights",
+		"your_rights_content": "Under the GDPR, you have certain rights regarding your personal information...",
+		"opt_out": "opt-out",
+		"opt_out_content": "Stop sending you direct marketing communications which you have previously consented to receive...",
+		"access": "access",
+		"access_content": "Provide you with information about our processing of your personal information and give you access to your personal information...",
+		"correct": "correct",
+		"correct_content": "Update or correct inaccuracies in your personal information...",
+		"delete": "delete",
+		"delete_content": "Delete your personal information...",
+		"transfer": "transfer",
+		"transfer_content": "Transfer a machine-readable copy of your personal information to you or a third party of your choice...",
+		"restrict": "restrict",
+		"restrict_content": "Restrict the processing of your personal information...",
+		"object": "object",
+		"object_content": "Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights...",
+		"submit_requests": "You can submit these requests by email to support@beimagine.tech...",
+		"cross_border_data_transfer": "cross-border data transfer",
+		"cross_border_data_transfer_content": "Please be aware that your personal data will be transferred to, processed, and stored in India...",
+		"cookies": "cookies",
+		"cookies_content": "You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies...",
+		"cookies_policy": "Cookies Policy",
+		"[SM-Legal1]": "[SM-Legal1]",
+		"All BIT websites to go here, kindly input the same": "All BIT websites to go here, kindly input the same",
+		"[SM-Legal2]": "[SM-Legal2]",
+		"Information to be entered": "Information to be entered"
+	}
+}

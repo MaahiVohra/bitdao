@@ -1,0 +1,964 @@
+{
+	"loading": "تحميل...،",
+	"Scanning": "يتم المسح...",
+	"socials": {
+		"linkedin": "ينكدين",
+		"instagram": "انستغرام"
+	},
+	"sectors": {
+		"heading": "القطاعات",
+		"education": "تعليم",
+		"eventManagement": "أدارة الحدث",
+		"healthcare": "الرعاىة الصحية",
+		"legal": "قانوني",
+		"realEstate": "العقارات",
+		"sports": "رياضات",
+		"entertainment": "ترفيه"
+	},
+	"Navbar": {
+		"Home": "بيت",
+		"Create": "يخلق",
+		"View": "منظر",
+		"Individuals": "فرادى",
+		"Sectors": "القطاعات",
+		"Utility": "جدوى",
+		"Souvenirs": "سوفيرنيرز",
+		"BatchdNFT": "دفعة dNFT",
+		"IndividualdNFT": "فرد dNFT",
+		"LoyaldNFT": "الولاء dNFT",
+		"Verify": "يؤكد",
+		"bitwallet": "BitWallet",
+		"getwallet": "احصل على Wallet",
+		"Contact_Us": "اتصل بنا",
+		"Connect": "يتصل",
+		"Arabic": "عربي",
+		"English": "إنجليزي",
+		"Institutions": "المؤسسات",
+		"Dashboard": "لوحة القيادة",
+		"AboutUs": "معلومات عنا",
+		"FAQ": "التعليمات",
+		"Team": "فريق",
+		"Roadmap": "خريطة الطريق",
+		"Whitepaper": "ورق ابيض",
+		"Tokenomics": "الرموز",
+		"OurPartners": "شركاؤنا",
+		"blog": "مدونة",
+		"copyright": "جميع الحقوق محفوظة © 2023 ابعد الخيال."
+	},
+	"Home": {
+		"heading": "BitMemoir",
+		"heading2": "سعودي",
+		"subheading1": "مشكلة",
+		"subheading2": "محل",
+		"subheading3": "يؤكد",
+		"subheading4": "يسترد",
+		"button1": "حاول مجانا",
+		"button2": "يتعلم أكثر",
+		"aboutus": {
+			"about": "ما هو BitMemoir؟",
+			"description": "BitMemoir هو تطبيق قائم على الويب 3 يمكّن الأفراد والمؤسسات من تزويد العملاء المعتمدين بشهادات رقمية. "
+		},
+		"productsuite": {
+			"heading": "مجموعة المنتج",
+			"container": [
+				{
+					"title": "الأداة NFT",
+					"description": "أطلق العنان لإمكانيات جديدة وفريدة من نوعها في العالم الرقمي من خلال تمكين الملكية الرقمية الفريدة وتسهيل المعاملات السلسة مع تحسين الأصل والندرة وقابلية البرمجة."
+				},
+				{
+					"title": "NFT كهدايا تذكارية",
+					"description": "طريقة حديثة لجمع الذكريات والحفاظ عليها وإنشاء اتصال دائم بين العلامات التجارية وعملائها ، مما يسمح بامتلاك وإحياء ذكرى اللحظات أو الأحداث أو التجارب الفريدة بطريقة آمنة ويمكن التحقق منها."
+				},
+				{
+					"title": "NFTs الديناميكية",
+					"description": "جلب التفاعل وإمكانية البرمجة إلى عالم المقتنيات الرقمية. "
+				},
+				{
+					"title": "محفظة غير أمينة",
+					"description": "نظرًا للحاجة المتزايدة لمحفظة لامركزية صديقة لـ NFT ، فإننا نقدم BitWallet ، وهو NFT وصديق للتشفير وبواجهة مستخدم / UX فائقة البساطة ، سيعزز تجربة web3 الشاملة للمستخدمين."
+				},
+				{
+					"title": "أوراق الاعتماد الرقمية",
+					"description": "طريقة آمنة ويمكن التحقق منها لتمثيل مؤهلات الفرد ومهاراته وإنجازاته والمصادقة عليها. "
+				},
+				{
+					"title": "المصادقة والتحقق",
+					"description": "المصادقة والتحقق"
+				},
+				{
+					"title": "برنامج الولاء NFT",
+					"description": "مبادرة فريدة تتيح استخدام الرموز غير القابلة للاستبدال (NFTs) كنقاط ولاء / مكافأة وكوبونات للتفاعل مع العملاء. "
+				},
+				{
+					"title": "جواز سفر المهارات",
+					"description": "مبادرة نحو إنشاء مستودع رقمي للوثائق وبيانات الاعتماد التي تم التحقق منها للطلاب ، وتحديد اهتماماتهم ومهاراتهم ، مما يسمح لهم بإنشاء ملفات تعريف تسلط الضوء على مجموعات مهاراتهم وخبراتهم الفريدة."
+				},
+				{
+					"title": "جواز السفر الطبي",
+					"description": "محاولة لرسم خرائط للتاريخ الطبي ، وإنشاء مستودع للوثائق الطبية وتسهيل تتبع الحالات الطبية السابقة والتشخيص ، وبالتالي المساعدة في التشخيص الطبي الصحيح وتقديم المشورة."
+				}
+			]
+		},
+		"usecases": {
+			"heading": "استخدم حالات",
+			"container": {
+				"field1": {
+					"field": "قطاع التعليم",
+					"detail": {
+						"detail1": "جواز سفر المهارات",
+						"detail2": "أوراق اعتماد تم التحقق منها"
+					}
+				},
+				"field2": {
+					"field": "القطاع الطبي",
+					"detail": {
+						"detail1": "جواز السفر الطبي",
+						"detail2": "سجلات المريض"
+					}
+				},
+				"field3": {
+					"field": "فرادى",
+					"detail": "تخزين المستندات والصور والتحقق منها"
+				},
+				"field4": {
+					"field": "الأحداث",
+					"detail": "إثبات الحضور والمذكرات"
+				},
+				"field5": {
+					"field": "ضيافة",
+					"detail": "NFTs كهدايا تذكارية وبرنامج ولاء"
+				},
+				"field6": {
+					"field": "عمل",
+					"detail": {
+						"detail1": "يضمن",
+						"detail2": "فواتير تم التحقق منها",
+						"detail3": "الخدمات المصرفية",
+						"detail4": "المذكرات المشتركة بين الأقسام",
+						"detail5": "إدارة الأمدادات"
+					}
+				},
+				"field7": {
+					"field": "حكومة",
+					"detail": {
+						"detail1": "رخصة قيادة",
+						"detail2": "جواز سفر",
+						"detail3": "شهادة الميلاد",
+						"detail4": "شهادة وفاة"
+					}
+				},
+				"field8": {
+					"field": "أرباب العمل",
+					"detail": "التحقق وفحص أوراق الاعتماد"
+				}
+			}
+		},
+		"features": {
+			"heading": "لماذا BitMemoir؟",
+			"subheading": "يوفر BitMemoir العديد من الفوائد",
+			"list": {
+				"heading1": "بنية تحتية قوية",
+				"heading2": "التكامل السلس",
+				"heading3": "حماية البيانات",
+				"heading4": "شهادات قابلة للتحقق",
+				"heading5": "إصدار بالجملة"
+			},
+			"connect": "تواصل الآن"
+		},
+		"FAQ": {
+			"heading": "أسئلة وأجوبة",
+			"questions": [
+				{
+					"question": "ما هو BitMemoir؟",
+					"answer": "BitMemoir عبارة عن نظام أساسي فريد قائم على blockchain يركز بشكل أساسي على إبطال إمكانية إنشاء بيانات اعتماد مزيفة أو تزوير المستندات. "
+				},
+				{
+					"question": "كيف يعمل BitMemoir؟",
+					"answer": "تستخدم BitMemoir تقنية blockchain لإنشاء رموز غير قابلة للفطريات (NFTs) لكل شهادة يتم إصدارها. "
+				},
+				{
+					"question": "كيف يمكنني إصدار شهادات باستخدام BitMemoir؟",
+					"answer": "لإصدار الشهادات باستخدام BitMemoir ، تحتاج أولاً إلى توصيل النظام الأساسي بمحفظة لامركزية وإكمال عملية \"اعرف عميلك\" من أجل الحصول على حساب ذي علامة بيضاء. "
+				},
+				{
+					"question": "ما هي فوائد BitMemoir؟",
+					"answer": "تقدم BitMemoir المزايا التالية:",
+					"subAnswer": [
+						"أ) أمان محسّن: تستفيد BitMemoir من تقنية blockchain لضمان عدم إمكانية التلاعب بالشهادات أو تزويرها.",
+						"ب) التحقق السهل: يمكن التحقق من الشهادات بسهولة عن طريق مسح رمز الاستجابة السريعة أو الوصول إلى سجل blockchain.",
+						"ج) قابلية النقل: يمكن تخزين الشهادات الرقمية في محافظ رقمية شخصية ومشاركتها مع أطراف أخرى لأغراض التحقق.",
+						"د) الإصدار الفعال: يعمل BitMemoir على تبسيط عملية إصدار الشهادة ، مما يوفر الوقت والموارد للمستخدمين.",
+						"هـ) الشفافية: يوفر سجل blockchain مسار تدقيق شفاف وغير قابل للتغيير لإصدار المستندات والتحقق منها"
+					]
+				},
+				{
+					"question": "كيف يمكنني التحقق من شهادة صادرة من خلال BitMemoir؟",
+					"answer": "للتحقق من الشهادة ، ما عليك سوى مسح رمز الاستجابة السريعة الموجود على الشهادة أو إدخال تفاصيل معاملة blockchain ، أي عنوان جهة الاتصال ومعرف الرمز المميز في علامة التبويب التحقق. "
+				},
+				{
+					"question": "هل يمكن دمج BitMemoir مع الأنظمة الحالية؟",
+					"answer": "نعم ، يوفر BitMemoir خيارات تكامل للاتصال بسلاسة مع الأنظمة الأساسية الحالية التي تستخدمها مؤسستك. "
+				},
+				{
+					"question": "هل BitMemoir متوافق مع أنواع مختلفة من المستندات؟",
+					"answer": "نعم ، يمكن استخدام BitMemoir لإصدار مجموعة كبيرة من المستندات والتحقق منها ، بما في ذلك الشهادات الأكاديمية والدبلومات والشهادات المهنية ومذكرات المكتب وشهادات الأحداث وتذاكر الأحداث وما إلى ذلك. ومع ذلك ، يجب أن يكون المستند بتنسيق JPEG."
+				},
+				{
+					"question": "هل BitMemoir آمن؟",
+					"answer": "نعم ، تستخدم BitMemoir تقنية blockchain المتقدمة لضمان أمان وسلامة المستندات. "
+				},
+				{
+					"question": "هل يمكنني مشاركة NFTs الخاصة بي على منصات التواصل الاجتماعي أو الشبكات المهنية؟",
+					"answer": "نعم ، مع تكامل BitWallet ، تصبح مشاركة NFT على منصات التواصل الاجتماعي والشبكات المهنية سهلة إلى حد ما."
+				}
+			],
+			"videoLink": "https://www.youtube.com/embed/YvG1yNJhu0E"
+		}
+	},
+	"kycPage": {
+		"kycStatus": {
+			"notCompleted": "لم تكمل KYC الخاص بك",
+			"startkyc": "ابدأ KYC",
+			"in_progress": {
+				"heading": "موافقة KYC الخاصة بك معلقة",
+				"heading1": "لمزيد من الدعم:",
+				"heading2": "راسلنا على hello@beimagine.tech"
+			},
+			"approved": {
+				"heading": "تمت الموافقة على KYC"
+			},
+			"rejected": {
+				"heading": "تم رفض KYC الخاص بك.",
+				"heading1": "سبب:",
+				"heading2": "لمزيد من الدعم:",
+				"heading3": "راسلنا على hello@beimagine.tech",
+				"restartkyc": "أعد تشغيل KYC"
+			},
+			"revoked": {
+				"heading": "تم إبطال موافقة KYC الخاصة بك.",
+				"heading1": "سبب:",
+				"heading2": "لمزيد من الدعم:",
+				"heading3": "راسلنا على hello@beimagine.tech",
+				"restartkyc": "أعد تشغيل KYC"
+			}
+		},
+		"kycForm": {
+			"heading": "أدخل تفاصيل KYC الخاصة بك",
+			"nameLabel": "اسم الشركة / المؤسسة *",
+			"namePlaceholder": "اسم المنظمة",
+			"desciptionLabel": "وصف*",
+			"desciptionPlaceholder": "وصف المنظمة",
+			"countryLabel": "دولة*",
+			"countryPlaceholder": "دولة",
+			"officialWebsiteLabel": "الموقع الرسمي*",
+			"officialWebsitePlaceholder": "الموقع الرسمي",
+			"subheading": "معلومات عن المندوب",
+			"nameOfissuerLabel": "اسم*",
+			"nameOfissuerPlaceholder": "اسم",
+			"lastnameOfissuerLabel": "اسم العائلة*",
+			"lastnameOfissuerPlaceholder": "اسم العائلة",
+			"designationOfissuerLabel": "تعيين *",
+			"designationOfissuerPlaceholder": "تعيين",
+			"officialEmailLabel": "معرف البريد الإلكتروني الرسمي *",
+			"officialEmailPlaceholder": "معرف البريد الإلكتروني الرسمي",
+			"officialPhoneLabel": "رقم الهاتف الرسمي *",
+			"officialPhonePlaceholder": "رقم الهاتف الرسمي",
+			"idProofOfRepresentativeLabel": "إثبات هوية الممثل *",
+			"subheadingnote": "معلومات عن سلطة الاعتماد",
+			"Upload_the_Note": "قم بتحميل الملاحظة (موقعة من قبل السلطات العليا) *",
+			"Sample_Form": "نموذج عينة",
+			"download": "تحميل نموذج النموذج",
+			"add_approving_authority": "إضافة سلطة اعتماد",
+			"add_approving_authority_heading": "يتعين على سلطات الاعتماد الموافقة على إصدار أي مستند عبر البريد الإلكتروني.",
+			"approve_authority_name": "اسم",
+			"approve_authority_lastname": "اسم العائلة",
+			"approve_authority_email": "بريد إلكتروني",
+			"approve_authority_Designation": "تعيين",
+			"remove": "يزيل",
+			"uploading": "جارٍ التحميل ...",
+			"add_approver": "إضافة الموافق",
+			"add": "يضيف",
+			"submit": "إرسال KYC",
+			"id_proof_of_authority": "إثبات هوية جهة الاعتماد *"
+		}
+	},
+	"Individuals": {
+		"create": "قم بإنشاء شهادتك الرقمية",
+		"uploadImage": "تحميل الصور*",
+		"assetNameLabel": "اسم الأصل*",
+		"assetNamePlaceholder": "أدخل اسم الأصل",
+		"descriptionLabel": "وصف",
+		"uploading": "جارٍ التحميل ...",
+		"submitBtn": "يُقدِّم",
+		"instructions": "ملاحظة: يُنصح بعدم تحميل الهوية الصادرة عن الحكومة الخاصة بك على BitMemoir. ",
+		"requirements": {
+			"assetName": "اسم الأصل مطلوب",
+			"assetDescription": "وصف الأصل مطلوب",
+			"invalidAddress": "عنوان المستلم غير صالح",
+			"image": "الصورة مطلوبة",
+			"invalidImage": "صورة غير صالحة",
+			"fileSize": "يجب أن يكون حجم الملف أقل من 100 ميغا بايت",
+			"storageExceeded": "تم تجاوز حصة التخزين. ",
+			"uploadSuccess": "تم الرفع بنجاح",
+			"uploadFailure": "هناك خطأ ما. "
+		},
+		"gbused": "تم استخدام غيغابايت من أصل",
+		"gb": "غيغابايت",
+		"searchingNft": "جاري البحث في NFT ....",
+		"nftNotFound": "NFT غير موجود"
+	},
+	"Institutions": {
+		"LandingPage": {
+			"Navbar": {
+				"Heading": "المؤسسات"
+			}
+		},
+		"certCreator": {
+			"variableOptions": [
+				"أسم الطالب",
+				"اسم الأم",
+				"التسجيل لا",
+				"الحصول على العلامات",
+				"الدرجات التي تم الحصول عليها",
+				"مجموع علامات",
+				"المعدل التراكمي",
+				"نسبة مئوية",
+				"تم التقييم بواسطة",
+				"تمت الموافقة عليه من قبل",
+				"إسم البرنامج",
+				"مدة البرنامج",
+				"اسم الدورة التدريبية",
+				"اسم الدفعة",
+				"رمز الدفعة",
+				"تاريخ بدء الدفعة",
+				"تاريخ انتهاء الدفعة",
+				"مدة الدفعة",
+				"وحدة",
+				"رقم دخول القاعة",
+				"قسم",
+				"اسم القسم",
+				"اسم المدرسة",
+				"الاسم التنظيمي",
+				"تاريخ الإصدار",
+				"اسم الموقع",
+				"التعيين الموقّع"
+			],
+			"CustomVariable": "أخرى (حدد)",
+			"heading": "منشئ القالب",
+			"selectVariable": "حدد متغير",
+			"addVariable": "أضف متغير",
+			"templateName": "اسم القالب",
+			"variableName": "اسم المتغير",
+			"next": "التالي"
+		},
+		"certDesigner": {
+			"heading": "مصمم شهادة",
+			"edit": "انقر في أي مكان للتعديل",
+			"bgcolor": "لون الخلفية",
+			"fontcolor": "لون الخلفية"
+		},
+		"education": {
+			"headingRecentlyUsed": "مستخدم حديثا",
+			"headingFreeTemplates": "قوالب مجانية",
+			"headingPremiumTemplates": "قوالب متميزة",
+			"createCustomTemplate": "إنشاء قالب مخصص",
+			"more": "أكثر",
+			"createNewTemplate": "إنشاء قالب جديد",
+			"selectTemplate": "حدد قالب",
+			"selectTemplatePlaceholder": "حدد قالبًا جاهزًا من قسم النماذج",
+			"or": "أو",
+			"degreeCertificates": "شهادات الدرجة",
+			"diplomaCertificates": "شهادات الدبلوم"
+		},
+		"templateCert": {
+			"enterPreviewValue": "أدخل قيم المعاينة",
+			"next": "التالي",
+			"back": "خلف",
+			"enter": "يدخل",
+			"save": "يحفظ",
+			"preview": "معاينة",
+			"issue": "مشكلة",
+			"readymadetemplate": "قوالب جاهزة"
+		},
+		"certIssue": {
+			"sno": "S. لا.",
+			"recipient": "متلقي",
+			"recipientAddress": "عنوان المستلم",
+			"recipientEmail": "البريد الإلكتروني المستلم",
+			"status": "حالة",
+			"tokenId": "tokenId",
+			"download": "تحميل",
+			"ok": "نعم",
+			"preview": "معاينة الشهادة",
+			"heading": "إصدار الشهادات",
+			"issueAll": "إصدار الكل",
+			"issueAllCertificates": "إصدار كافة الشهادات",
+			"closeSpreadsheet": "أغلق جدول البيانات",
+			"alreadyExcelsheet": "هل لديك ورقة إكسل معدة بالفعل؟",
+			"copypagesheet": "نسخ / لصق من Excel / Spreadsheet",
+			"NoOfCert": "عدد الشهادات",
+			"enterValues": "أدخل القيم الفردية بعد ذلك",
+			"file": "ملف",
+			"note": "ملاحظة: هذه هي الشهادات الأساسية التي تحتاجها للحصول على إذن الموافقة",
+			"certlmitexceed": " تم تجاوز حد الشهادة. ",
+			"increaselmtBtn": "زيادة الحد",
+			"uploadCSV": "تحميل ملف بيانات الطالب (تنسيق CSV)",
+			"downloadsCSV": "تنزيل نموذج CSV",
+			"nextbtn": "التالي",
+			"backbtn": "خلف",
+			"headingCloseWindow": "يمكنك إغلاق النافذة.",
+			"issuingCertificates": "إصدار الشهادات ..."
+		},
+		"badgeIssue": {
+			"heading": "إصدار شارات",
+			"selectBadge": "حدد الشارة:",
+			"NoOfBadges": "عدد الشارات:"
+		},
+		"approval": {
+			"heading": "الشهادة في انتظار الموافقة من المعتمدين التاليين:",
+			"name": "اسم : ",
+			"designation": "تعيين : ",
+			"email": "بريد إلكتروني : ",
+			"approving": "جارٍ الموافقة ...",
+			"approvedCertsIssued": "موافقة. ",
+			"approved": "موافقة."
+		}
+	},
+	"view": {
+		"view": {
+			"heading": "لم يتم العثور على NFTs.",
+			"mydigitalCollection": "مجموعتي الرقمية",
+			"membership": "عضوية :",
+			"membershipExpiryDate": "تاريخ انتهاء العضوية:"
+		},
+		"create": "إنشاء NFTs",
+		"script": {
+			"loading": "جارٍ تحميل الشهادات ...",
+			"error": "حدث خطأ أثناء إحضار NFTs"
+		}
+	},
+	"Dashboard": {
+		"contentDashboard": {
+			"name": "اسم",
+			"email": "بريد إلكتروني",
+			"Website": "موقع إلكتروني",
+			"Issuer_Name": "اسم المُصدر",
+			"Issuer_Designation": "تعيين المُصدر",
+			"Status": "حالة",
+			"IdProof": "إثبات الهوية",
+			"contractAddress": "عنوان العقد",
+			"accountAddress": "عنوان الحساب",
+			"CurrentPlan": "الخطة الحالية",
+			"account": "حساب",
+			"description": "وصف",
+			"regId": "ريج. ",
+			"personalStorage": "التخزين الشخصي"
+		},
+		"sidebar": {
+			"dashboard": "لوحة القيادة",
+			"PrimaryDetails": "التفاصيل الأولية",
+			"Analytics": "تحليلات"
+		},
+		"KPI": {
+			"totalCertificates": "إجمالي الشهادات الصادرة",
+			"totalSouvenirs": "إجمالي الهدايا التذكارية الصادرة"
+		},
+		"frames": {
+			"error": "حدث خطأ ما. أعد المحاولة من فضلك.",
+			"newFrame": "إضافة إطار جديد",
+			"selectFrame": "حدد الإطار",
+			"frameName": "اسم الإطار",
+			"saveFrame": "حفظ الإطار",
+			"souvenirFrames": "إطارات تذكارية",
+			"addFrame": "إضافة إطار",
+			"certificateTemplate": "قوالب الشهادات"
+		}
+	},
+	"connection": {
+		"connection": {
+			"heading": "الرجاء توصيل محفظتك",
+			"subheading": "هذا لن يكلفك أي غاز.",
+			"connect-btn": "ربط المحفظة"
+		},
+		"noWallet": {
+			"heading": "يبدو أنه ليس لديك محفظة blockchain مثبتة.",
+			"download-btn": "تنزيل Metamask",
+			"subheading": "محفظة blockchain هي دخولك إلى عالم WEB3.0.",
+			"learnmore-btn": "تعرف على المزيد حول metamask:"
+		}
+	},
+	"Verify": {
+		"heading": "التحقق من الشهادات",
+		"subheading": "أدخل تفاصيل الشهادة أدناه.",
+		"subheadingtext": "(يمكن العثور على تفاصيل الشهادة في ملف الشهادة بجانب رمز الاستجابة السريعة.)",
+		"Contract_Address": "عنوان العقد:",
+		"Verify": "يؤكد",
+		"tokenId": "معرف الرمز",
+		"tokenIdPlaceholder": "أدخل معرف الرمز",
+		"contractAddressPlaceholder": "أدخل العنوان. "
+	},
+	"VerifyDetails": {
+		"Verified": "تم التحقق",
+		"Contract_Address": "عنوان العقد:",
+		"Token_Id": "معرف الرمز:",
+		"Download": "تحميل",
+		"IssuedBy": "أصدرت من قبل:",
+		"Recipient": "متلقي :",
+		"Verifying": "جاري التحقق ...",
+		"Could_not_Verify": "تعذر التحقق.",
+		"verified": "تم التحقق",
+		"unverified": "لم يتم التحقق منه",
+		"pending": "التحقق معلق"
+	},
+	"Bitwallet": {
+		"heading1": "محفظة تشفير",
+		"heading2": "بوابة إلى",
+		"heading3": "عالم blockchain",
+		"subheading": "عزز تجربة المستخدم الخاصة بك مع BitWallet ، مفتاح عالم blockchain",
+		"download": "التحميل الان",
+		"heading4": "استخدمه كملحق متصفح أو تطبيق جوال",
+		"subheading4": "يتوفر BitWallet كملحق للمتصفح وكتطبيق جوال ، ويزودك بمخزن رئيسي وتسجيل دخول آمن و NFT بسيط وتخزين ونقل Crypto.",
+		"heading5": "الأمان لأصولك الرقمية",
+		"subheading5": "تقوم BitWallet بإنشاء كلمات مرور ومفاتيح على جهازك ، بحيث يكون لديك فقط حق الوصول إلى حساباتك وبياناتك. ",
+		"heading6": "وقت تعطل صفر",
+		"subheading6": "حماية مفاتيحك من خلال التشفير",
+		"bitwalletDwnld": "تنزيل BitWallet",
+		"downloadChromeheading": "قم بتنزيل امتداد Chrome لسطح المكتب",
+		"downloadIoSheading": "قم بتنزيل تطبيق Ios",
+		"downloadAndroidheading": "قم بتنزيل تطبيق Android",
+		"downloadFor": "تنزيل لـ",
+		"whatIsBitwallet": "ما هو BitWallet؟",
+		"whyChooseBitwallet": {
+			"heading": "لماذا تختار BitWallet؟",
+			"subheading": "محفظة أكثر أمانًا وشفافية",
+			"Dataprotection": "حماية البيانات",
+			"RobustInfrastructure": "بنية تحتية قوية",
+			"Decentralized": "لامركزية",
+			"Verifiedandsecuretouse": "تم التحقق منه وآمن للاستخدام",
+			"EasytoUse": "سهل الاستخدام",
+			"SupportAssets": "أصول الدعم"
+		}
+	},
+	"RoadMap": {
+		"heading": "خارطة طريق BITMEMOIR 2023",
+		"subheading": "نحن نعمل بجد لجعل BitWallet أفضل محفظة تشفير في العالم. ",
+		"roadmap": {
+			"Q2": {
+				"heading": "2023 الربع الثاني",
+				"point1": "بناء المجتمع",
+				"point2": "إصدار الورقة البيضاء",
+				"point3": "BitMemoir Mainnet على Polygon",
+				"point4": "BitWallet Mainnet على Polygon",
+				"point5": "ترتيب الشراكات"
+			},
+			"Q3": {
+				"heading": "2023 الربع الثالث",
+				"point1": "إطلاق BitMemoir Token IDO على Arbitrum",
+				"point2": "قائمة BitMemoir Token Dex",
+				"point3": "قائمة BitMemoir Token Cex",
+				"point4": "إطلاق BitWallet Token IDO على Arbitrum",
+				"point5": "دعم BitWallet Multichain",
+				"point6": "إعلانات الشراكات - 10 زائد"
+			},
+			"Q4": {
+				"heading": "2023 الربع الرابع",
+				"point1": "تسويق",
+				"point2": "المزيد من اعتماد Bitmemoir و Bitwallet",
+				"point3": "تكامل BitWallet مع Dapps الأخرى",
+				"point4": "سوف تدعم BitWallet المزيد من السلاسل",
+				"point5": "ميزات الأداة المساعدة الجديدة NFT على Bitmemoir",
+				"point6": "الإدراج في CEX الرئيسية"
+			}
+		}
+	},
+	"Team": {
+		"heading": "الفريق المؤسس",
+		"subheading": "فريقنا",
+		"hr": "الموارد البشرية",
+		"bd": "تنفيذي BD",
+		"marketing": "تنفيذي تسويق",
+		"ceo": "المؤسس ورئيس المجلس التنفيذي",
+		"socialMedia": "مدير التواصل الاجتماعي",
+		"hrConsultant": "مستشار موارد بشرية",
+		"BlockchainDeveloper": "مطور Blockchain"
+	},
+	"ComingSoon": "قريباً...",
+	"Aboutus": {
+		"main": "معلومات عنا",
+		"head": "تتمثل رؤيتنا في حل أزمة الثقة الحالية والمتنامية وزيادة مصداقية الويب.",
+		"content": "تأسست Beyond Imagination Technologies (BIT) كأول شركة ناشئة في الهند مع فكرة رعاية تقنية Blockchain / Web3 وإنشاء حلول فعالة من حيث التكلفة وآمنة وآمنة تناسب احتياجات السوق. ",
+		"button": "عرض المزيد"
+	},
+	"dNFT": {
+		"sno": "S. لا.",
+		"nft": "NFT",
+		"heading": "شهادات NFT الديناميكية",
+		"Batch": "حزمة",
+		"BatchName": "اسم الدفعة",
+		"BatchDescription": "وصف الدفعة",
+		"BatchImage": "صورة مجمعة",
+		"Create_New_Batch": "إنشاء دفعة جديدة",
+		"Update_Batch": "تحديث الدفعة",
+		"Batch_List": "قائمة الدُفعات",
+		"Please_Select_Batch.......": "الرجاء تحديد الدفعة .......",
+		"batchCreatedSuccessfully": "تم إنشاء الدفعة بنجاح",
+		"Current_batch_image": "صورة الدُفعات الحالية",
+		"uploadNewNFTImage": "تحميل صورة NFT جديدة",
+		"update": "تحديث",
+		"StudentList": "قائمة الطلاب",
+		"address": "عنوان",
+		"status": "حالة",
+		"TokenId": "معرف الرمز",
+		"dynamicIssuedSucessfully": "تم إصدار Dynamic NFT بنجاح",
+		"CertificateOderSentForApproval": "تم إرسال طلب الشهادة للموافقة عليه",
+		"createYourBatch": "إنشاء الدفعة الخاصة بك",
+		"NumberOfStudents": "عدد الطلاب",
+		"uploadNFTImage": "تحميل صورة NFT",
+		"OderhasbeenSubmittedPleaseCheckinFewMinutes": "تم تقديم الطلب يرجى التحقق خلال دقائق قليلة",
+		"DynamicNFTCertificate": "شهادة NFT الديناميكية",
+		"CreateNewNFT": "إنشاء NFT جديد",
+		"UpdateNFT": "تحديث NFT",
+		"NFTList": "قائمة NFT",
+		"Please_Select_NFT.......": "يرجى تحديد NFT .......",
+		"search": "يبحث",
+		"selectAnotherNFT": "حدد NFT آخر",
+		"walletAddress": "عنوان المحفظة",
+		"Current_NFT_image": "صورة NFT الحالية",
+		"nftUpdatedSuccessfully": "تم تحديث NFT بنجاح",
+		"Erroredpleasetryagain": "خطأ ، يرجى المحاولة مرة أخرى",
+		"NFTDescription": "وصف NFT",
+		"ok": "نعم",
+		"alert": {
+			"upgradePlan": "الرجاء ترقية خطتك.",
+			"exceeded": "لقد تجاوزت حصتك. ",
+			"nftIssued": "أصدر الطالب NFT بنجاح."
+		},
+		"batchUpdatedSuccessfully": "تحديث الدفعة بنجاح",
+		"updatingBatch": "جارٍ تحديث الدفعة ....",
+		"certificatesIssuedSuccessfully": "تم إصدار الشهادات بنجاح"
+	},
+	"tryforfree": {
+		"requiredFields": "* الحقول المعلمة مطلوبة.",
+		"submitting": "تقديم. ",
+		"thankYou": "شكرا لاختيارك bitmemoir. ",
+		"somethingWentWrong": "هناك خطأ ما. ",
+		"signup": "قم بالتسجيل للحصول على شهادات مجانية",
+		"firstName": "الاسم الأول",
+		"enterfirstname": "أدخل الاسم الأول ...",
+		"lastName": "اسم العائلة",
+		"enterlastname": "إدخال اسم آخر",
+		"designation": "تعيين",
+		"enterdesignation": "أدخل التسمية ...",
+		"email": "بريد إلكتروني",
+		"enteremail": "أدخل البريد الإلكتروني ...",
+		"organization": "منظمة",
+		"enterorganization": "أدخل اسم المنظمة",
+		"contact": "رقم الاتصال",
+		"enterContact": "أدخل رقم الهاتف...",
+		"country": "دولة",
+		"entercountry": "أدخل الدولة ...",
+		"enter": "يدخل",
+		"submittedSuccessfully": "تم الإرسال بنجاح",
+		"maximum3": "يسمح بحد أقصى 3 موافقين."
+	},
+	"scripts": {
+		"dnd": {
+			"heading": "يجر",
+			"or": "أو",
+			"browse": "تصفح ملفات"
+		}
+	},
+	"learnmore": {
+		"destination": {
+			"heading": "كيفية استخدام BitMemoir",
+			"subheading": "للفنادق والمنتجعات والأحداث ووجهات السفر.",
+			"infotext": [
+				{
+					"text": "يجب على الوجهة الاتصال بنا لإصدار الهدايا التذكارية."
+				},
+				{
+					"text": "بعد التدقيق ، ستنشر BIT عقدًا ذكيًا للوجهة."
+				},
+				{
+					"text": "يجب أن توفر الوجهة إطارًا للصورة يتم تطبيقه تلقائيًا على الصور التذكارية."
+				},
+				{
+					"text": "ستضيف BIT الوجهة كمصدر للهدايا التذكارية تم التحقق منه."
+				},
+				{
+					"text": "يمكن للوجهة بعد ذلك تسجيل الدخول ببساطة إلى تطبيق الويب BitMemoir باستخدام محفظتها."
+				},
+				{
+					"text": "ستكون الوجهة قادرة على إصدار الهدايا التذكارية عن طريق تحميل صورة ضيفهم (تم التقاطها في الحرم الجامعي)."
+				},
+				{
+					"text": "ستحصل الوجهة على عنوان المحفظة الخاص بضيوفها وتدخل عنوان محفظة الضيف أثناء إصدار الهدايا التذكارية. "
+				}
+			]
+		},
+		"individual": {
+			"subheading": "للأفراد",
+			"infotext": "يمكن للمستخدمين الفرديين ببساطة الانتقال إلى تطبيق الويب BitMemoir ، وتسجيل الدخول باستخدام محفظة blockchain ، والبدء في تحميل ملفاتهم. "
+		},
+		"institute": {
+			"subheading": "للمؤسسات التعليمية بما في ذلك المدارس والكليات والجامعات.",
+			"infotext": [
+				{
+					"text": "يجب على المعهد الاتصال بنا لإصدار الشهادات."
+				},
+				{
+					"text": "ستقوم BIT بفحص المعهد من خلال المطالبة بالأوراق القانونية."
+				},
+				{
+					"text": "بعد التدقيق ، ستنشر BIT عقدًا ذكيًا للمعهد."
+				},
+				{
+					"text": "يقدم المعهد محتوى الشهادة. "
+				},
+				{
+					"text": "سيقوم BIT بإنشاء الشهادات ، وسك NFT لكل شهادة ونقل الملكية إلى المستلم."
+				},
+				{
+					"text": "يمكن للمستلمين عرض أو تنزيل شهاداتهم في تطبيق الويب BitMemoir أو BIT-Wallet."
+				}
+			]
+		}
+	},
+	"contact": {
+		"reachout": "تواصل معنا على:",
+		"locationText": "موقع :",
+		"company": "ما وراء الخيال للتكنولوجيا ذ",
+		"building": "مبنى مطعم لفا M03 ،",
+		"address": "شارع الشيخ خليفة بن زايد - مقابل. ",
+		"country": "دبى، الامارات العربية المتحدة",
+		"supportEmail": "support@beimagine.tech",
+		"marketingEmail": "marketing@beimagine.tech",
+		"checkSocial": "تحقق من وسائل التواصل الاجتماعي لدينا:"
+	},
+	"souvenir": {
+		"addFrame": {
+			"status": {
+				"error": "حدث خطأ ما. أعد المحاولة من فضلك."
+			}
+		},
+		"souvenir": {
+			"welcome": "مرحباً",
+			"totalSouvenirs": "تم إصدار الهدايا التذكارية حتى الآن",
+			"give": "وزع الهدايا التذكارية",
+			"uploadImage": "تحميل الصور*",
+			"frame": "إطار تذكاري",
+			"none": "لا أحد",
+			"addFrame": "إضافة إطار",
+			"souvenirName": "اسم التذكار *",
+			"souvenirNamePlaceholder": "أدخل اسم التذكار",
+			"recipientWalletAddress": "عنوان محفظة المستلم",
+			"recipientWalletAddressPlaceholder": "أدخل عنوان محفظة المستلم",
+			"recipientEmail": "البريد الألكتروني للمتلقي",
+			"recipientEmailAddressPlaceholder": "أدخل عنوان البريد الإلكتروني للمستلم",
+			"uploading": "جارٍ التحميل ..."
+		}
+	},
+	"loyalty": {
+		"alert": {
+			"walletAddress": "الرجاء إدخال عنوان المحفظة",
+			"selectImage": "الرجاء تحديد الصورة",
+			"expiryMembership": "الرجاء إدخال تاريخ انتهاء العضوية",
+			"reward": "الرجاء إدخال المكافأة",
+			"expiryReward": "الرجاء إدخال تاريخ انتهاء صلاحية المكافأة",
+			"noNftQuota": "ليس لديك حصة NFT متبقية. ",
+			"waiting": "في انتظار المعاملة ليتم تعدينها ...",
+			"success": "تم إصدار NFT بنجاح",
+			"failure": "لم تصدر NFT",
+			"claimedSuccess": "تمت المطالبة بالمكافأة بنجاح",
+			"claimedFailure": "لم تتم المطالبة بالمكافأة",
+			"updateSuccess": "تحديث NFT بنجاح",
+			"updateFailure": "فشل تحديث NFT"
+		},
+		"issue": {
+			"walletAddress": "عنوان المحفظة: ",
+			"walletAddressPlaceholder": "إضافة المحفظة. ",
+			"image": "صورة لـ NFT: ",
+			"membership": "عضوية",
+			"regular": "عادي",
+			"premium": "غالي",
+			"expiryMembership": "تاريخ انتهاء العضوية",
+			"reward": "جائزة",
+			"yes": "نعم",
+			"no": "لا",
+			"expiryReward": "تاريخ انتهاء المكافأة",
+			"issue": "إصدار NFT",
+			"rewardPlaceholder": "على سبيل المثال ",
+			"issueDate": "تاريخ الإصدار"
+		},
+		"nftLoyalty": {
+			"heading": "مرحبًا بكم في برنامج المكافآت / الولاء dNFT",
+			"issueClick": "للإصدار NFT الرجاء الضغط على 'Issue NFT'",
+			"viewClick": "لمشاهدة NFT الرجاء الضغط على 'View NFT'",
+			"updateClick": "لتحديث NFT يرجى النقر فوق \"تحديث NFT\"",
+			"issue": "إصدار NFT",
+			"view": "مشاهدة ملف NFT",
+			"update": "تحديث NFT"
+		},
+		"qr": {
+			"scan": "مسح رمز الاستجابة السريعة"
+		},
+		"rewardTable": {
+			"date": "تاريخ",
+			"reward": "جائزة",
+			"redeem": "يسترد",
+			"expiry": "تاريخ الانتهاء",
+			"action": "فعل"
+		}
+	},
+	"privacyPolicy": {
+		"heading": "سياسة الخصوصية",
+		"desc": "تصف سياسة الخصوصية هذه (\"السياسة\") كيف تقوم شركة Beyond Imagination Technologies Private Limited (شركة أو نحن أو نحن أو نحن) بجمع واستخدام ومشاركة وتخزين المعلومات الشخصية لمستخدمي مواقعها على الويب.",
+		"sites": "(المواقع\").",
+		"legalReference": "[SM-Legal1]",
+		"servicesDesc": "تنطبق هذه السياسة على المواقع والتطبيقات والمنتجات والخدمات (يشار إليها إجمالاً باسم \"الخدمات\") أو التي تم نشرها أو ربطها أو الإشارة إليها فيها.",
+		"acceptanceDesc": "باستخدام الخدمات ، فإنك تقبل شروط هذه السياسة وشروط الاستخدام الخاصة بنا ، وتوافق على جمع معلوماتك واستخدامها والإفصاح عنها والاحتفاظ بها كما هو موضح في هذه السياسة. ",
+		"thirdPartyDesc": "يرجى ملاحظة أن هذه السياسة لا تنطبق على المعلومات التي يتم جمعها من خلال مواقع الويب أو الخدمات التابعة لجهات خارجية والتي قد تصل إليها من خلال الخدمات أو التي ترسلها إلينا عبر البريد الإلكتروني أو الرسائل النصية أو الرسائل الإلكترونية الأخرى أو دون اتصال بالإنترنت.",
+		"whatWeCollectHeading": "ما نجمعه",
+		"whatWeCollectDesc": "نحصل على معلومات عنك بعدة طرق.",
+		"informationYouGiveUs": "المعلومات التي تقدمها لنا.",
+		"informationWeCollect": "المعلومات التي نجمعها منك قد تشمل:",
+		"identityInfo": "معلومات الهوية ، مثل الاسم الأول واسم العائلة واسم المستخدم أو المعرف المماثل واللقب وتاريخ الميلاد والجنس ؛",
+		"contactInfo": "معلومات الاتصال ، مثل عنوانك البريدي وعنوان بريدك الإلكتروني ورقم هاتفك ؛",
+		"profileInfo": "معلومات الملف الشخصي ، مثل اسم المستخدم وكلمة المرور والاهتمامات والتفضيلات والتعليقات وردود الاستبيان ؛",
+		"feedbackCorrespondence": "التعليقات والمراسلات ، مثل المعلومات التي تقدمها في ردودك على الاستطلاعات ، عندما تشارك في أنشطة أبحاث السوق ، أو تبلغ عن مشكلة في الخدمة ، أو تتلقى دعم العملاء ، أو تتراسل معنا بأي طريقة أخرى ؛",
+		"financialInfo": "المعلومات المالية ، مثل بطاقة الائتمان الخاصة بك أو تفاصيل بطاقة الدفع الأخرى ؛",
+		"transactionInfo": "معلومات المعاملات ، مثل التفاصيل المتعلقة بالمشتريات التي تجريها من خلال الخدمة وتفاصيل الفواتير ؛",
+		"usageInfo": "معلومات الاستخدام ، مثل معلومات حول كيفية استخدامك للخدمة وتفاعلك معنا ؛",
+		"marketingInfo": "معلومات التسويق ، مثل تفضيلاتك لتلقي الاتصالات التسويقية وتفاصيل حول كيفية تفاعلك معها ؛",
+		"financialInfo2": "المعلومات المالية ، مثل رقم الحساب المصرفي ورقم التوجيه المصرفي ؛ ",
+		"technicalInfo": "المعلومات الفنية ، مثل عنوان محفظة Ethereum الخاص بك ، ومفتاح واجهة برمجة التطبيقات (API) ومعلومات الشبكة المتعلقة بالمعاملات. ",
+		"furtherInformationTitle": "مزيد من المعلومات التي تقدمها لنا فيما يتعلق بموقع BIT وخدمات BIT.",
+		"furtherInformationIntro": "قد تتضمن المعلومات الإضافية التي نجمعها منك فيما يتعلق بـ https://www.beimagine.tech (\"موقع BIT\") وخدمات BIT ما يلي:",
+		"identityInfo2": "معلومات إضافية عن الهوية ، مثل بلد الميلاد والجنسية ورقم الضمان الاجتماعي ومكان الميلاد وصاحب العمل والوظيفة ؛",
+		"passportInfo": "جواز السفر و / أو بطاقة الهوية لأغراض التحقق من الهوية ؛",
+		"amlInfo": "المعلومات المطلوبة للامتثال لقوانين مكافحة غسل الأموال (AML) ومتطلبات اعرف عميلك (KYC) (مثل الجنسية ومكان الميلاد) ؛",
+		"sourceOfFunds": "مصدر الأموال للمشاركة في إطلاق الرمز المميز ؛",
+		"tokenHoldingsInfo": "المعلومات التي تقدمها لنا فيما يتعلق بممتلكاتك من الرموز المميزة المشتراة ، مثل الأرباح المتلقاة من Staking وعدد الرموز في محفظتك.",
+		"informationFromOthersTitle": "المعلومات التي نحصل عليها من الآخرين.",
+		"informationFromOthersIntro": "قد نحصل على معلومات عنك من مصادر خارجية أخرى ، وقد نضيف ذلك إلى المعلومات التي نحصل عليها من استخدامك للخدمات. ",
+		"ssoRegistrationTitle": "التسجيل باستخدام حساب الدخول الموحد",
+		"ssoRegistrationInfo": "عند تسجيل بعض حسابات المستخدمين (على سبيل المثال ، مع موقع BIT) ، لديك أيضًا خيار استخدام حساب تسجيل دخول واحد (\"SSO\"). ",
+		"googlePrivacyPolicy": "سياسة خصوصية Google",
+		"ssoRegistrationNote": "ملاحظة: يخضع التسجيل في خدمات الدخول الموحّد (SSO) واستخدامها لسياسة خصوصية Google وشروط الاستخدام الخارجة عن سيطرتنا.",
+		"infoAutomaticallyCollectedTitle": "المعلومات التي يتم جمعها تلقائيًا.",
+		"infoAutomaticallyCollectedIntro": "قد نقوم تلقائيًا بتسجيل بعض المعلومات حول كيفية استخدامك لمواقعنا (نشير إلى هذه المعلومات باسم \"بيانات السجل\"). ",
+		"cookiesIntro": "قد نستخدم ملفات تعريف الارتباط أو التخزين المحلي أو تقنيات مماثلة لتحليل الاتجاهات وإدارة المواقع وتتبع تحركات المستخدمين حول المواقع وجمع المعلومات الديموغرافية حول قاعدة مستخدمينا ككل. ",
+		"cookiesPolicy": "اتفاقية ملفات تعريف الارتباط",
+		"cookiesEnd": ".",
+		"googleAnalyticsIntro": "قد نستخدم Google Analytics أيضًا لمساعدتنا على تقديم تجربة مستخدم محسّنة لك. ",
+		"googleAnalyticsLink": "https://www.google.com/analytics/terms/us.html",
+		"googleAnalyticsNote": ". ",
+		"eventTrackingToolIntro": "نحن نستخدم ________ ، أداة تتبع الأحداث ، في بعض خدماتنا من أجل فهم أفضل لكيفية استخدامك للمواقع.  ",
+		"eventTrackingToolLink": "هنا: ______________.",
+		"serviceOptimizationIntro": "نستخدم ______ في بعض خدماتنا لفهم احتياجات مستخدمينا بشكل أفضل ولتحسين هذه الخدمة والخبرة. ",
+		"serviceOptimizationLink": "[SM-Legal2]",
+		"informationNotCollectedTitle": "المعلومات التي لن نجمعها أبدًا",
+		"informationNotCollectedIntro": "لن نطلب منك أبدًا مشاركة مفاتيحك الخاصة أو بذرة المحفظة. ",
+		"useOfPersonalInformationTitle": "استخدام المعلومات الشخصية",
+		"provideServiceTitle": "لتقديم خدماتنا",
+		"personalInformationUsageIntro": "سوف نستخدم معلوماتك الشخصية بالطرق التالية:",
+		"enableAccessAndUse": "لتمكينك من الوصول إلى الخدمات واستخدامها",
+		"deliverProductsAndServices": "لتوفير وتقديم المنتجات والخدمات التي قد تطلبها.",
+		"processAndCompleteTransactions": "لمعالجة المعاملات وإتمامها ، وإرسال المعلومات ذات الصلة إليك ، بما في ذلك تأكيدات الشراء والفواتير",
+		"sendInformation": "لإرسال المعلومات ، بما في ذلك التأكيدات والإشعارات الفنية والتحديثات وتنبيهات الأمان ورسائل الدعم والرسائل الإدارية.",
+		"complyWithLawTitle": "للامتثال للقانون",
+		"complyWithLawIntro": "نستخدم معلوماتك الشخصية على النحو الذي نعتقد أنه ضروري أو مناسب للامتثال للقوانين المعمول بها (بما في ذلك قوانين مكافحة غسيل الأموال (AML) ومتطلبات اعرف عميلك (KYC)) والطلبات القانونية والإجراءات القانونية ، مثل الاستجابة لمذكرات الاستدعاء ",
+		"communicateWithTitle": "للتواصل معك",
+		"communicateWithIntro": "نستخدم معلوماتك الشخصية للتواصل بشأن العروض الترويجية والأحداث القادمة والأخبار الأخرى حول المنتجات والخدمات التي نقدمها نحن وشركاؤنا المختارون.",
+		"optimizePlatformTitle": "لتحسين منصتنا",
+		"optimizePlatformIntro": "من أجل تحسين تجربة المستخدم الخاصة بك ، قد نستخدم معلوماتك الشخصية لتشغيل خدماتنا وصيانتها وتحسينها. ",
+		"withYourConsentTitle": "بموافقتك",
+		"withYourConsentIntro": "قد نستخدم معلوماتك الشخصية أو نشاركها بموافقتك ، على سبيل المثال عندما توافق على السماح لنا بنشر شهاداتك أو موافقتك على مواقعنا ، فإنك تطلب منا اتخاذ إجراء محدد فيما يتعلق بمعلوماتك الشخصية ، أو تختار ثالثًا- ",
+		"complianceTitle": "للامتثال ومنع الاحتيال والسلامة",
+		"complianceIntro": "قد نستخدم معلوماتك الشخصية للحماية والتحقيق والردع ضد أي نشاط احتيالي أو غير مصرح به أو غير قانوني.",
+		"sharingOfPersonalInformationTitle": "تبادل المعلومات الشخصية",
+		"sharingOfPersonalInformationIntro": "لا نشارك المعلومات الشخصية التي تزودنا بها مع المنظمات الأخرى دون موافقتك الصريحة ، باستثناء ما هو موضح في سياسة الخصوصية هذه. ",
+		"affiliatesTitle": "الشركات التابعة.",
+		"affiliatesIntro": "قد نكشف عن معلوماتك الشخصية لشركاتنا الفرعية والشركات التابعة لنا (أي مجموعة شركاتنا المرتبطة بالملكية أو السيطرة المشتركة) لأغراض تتفق مع سياسة الخصوصية هذه.",
+		"businessTransfersTitle": "تحويلات الأعمال.",
+		"businessTransfersIntro": "قد نشارك المعلومات الشخصية عندما نقوم بصفقة تجارية أو نتفاوض بشأن صفقة تجارية تتضمن بيع أو نقل كل أو جزء من أعمالنا أو أصولنا. ",
+		"complianceWithLawsTitle": "الامتثال للقوانين وإنفاذ القانون ؛ ",
+		"complianceWithLawsIntro": "يجوز لنا مشاركة المعلومات الشخصية لأغراض قانونية وأغراض الحماية والأمان.",
+		"complyWithKYCAML": "يجوز لنا مشاركة المعلومات للامتثال للقوانين ، بما في ذلك متطلبات KYC و AML.",
+		"respondToRequests": "يجوز لنا مشاركة المعلومات للرد على الطلبات والإجراءات القانونية القانونية.",
+		"protectRightsAndProperty": "يجوز لنا مشاركة المعلومات لحماية حقوق وممتلكات الشركة ووكلائنا وعملائنا وغيرهم. ",
+		"emergencySituation": "قد نشارك المعلومات في حالة الطوارئ. ",
+		"professionalAdvisorsTitle": "مستشارون محترفون ومقدمو خدمة.",
+		"professionalAdvisorsIntro": "قد نشارك المعلومات مع أولئك الذين يحتاجون إليها للقيام بعمل من أجلنا. ",
+		"otherTitle": "آخر.",
+		"otherIntro": "يمكنك السماح لنا بمشاركة معلوماتك الشخصية مع شركات أو كيانات أخرى من اختيارك. ",
+		"aggregatedData": "يجوز لنا أيضًا مشاركة بيانات مجمعة و / أو مجهولة المصدر مع الآخرين لاستخداماتهم الخاصة.",
+		"internationalTransferTitle": "النقل الدولي",
+		"internationalTransferIntro": "تمتلك الشركة مكاتب في الهند فقط وتسعى لتقديم خدماتها على مستوى عالمي. ",
+		"informationSecurityTitle": "كيف يتم تأمين المعلومات",
+		"informationSecurityIntro": "نحتفظ بالمعلومات التي نجمعها طالما كانت ضرورية وذات صلة لتحقيق الأغراض الموضحة في سياسة الخصوصية هذه. ",
+		"retentionOfInformation": "في بعض الظروف ، قد نجعل معلوماتك الشخصية مجهولة (بحيث لا يمكن ربطها بك بعد الآن) وفي هذه الحالة قد نستخدم هذه المعلومات إلى أجل غير مسمى دون إشعار آخر لك.",
+		"securityMeasures": "نحن نستخدم تدابير أمنية متوافقة مع معايير الصناعة مصممة لحماية أمن جميع المعلومات المقدمة من خلال الخدمات. ",
+		"informationChoicesAndChangesTitle": "اختيارات المعلومات والتغييرات",
+		"accessUpdateDeleteInfoTitle": "الوصول إلى المعلومات الخاصة بك وتحديثها وتصحيحها وحذفها",
+		"accessUpdateDeleteInfoIntro": "يمكنك الوصول إلى المعلومات التي قدمتها طواعية من خلال حسابك على الخدمات ، ومراجعتها أو تصحيحها أو حذفها عن طريق إرسال طلب إلى support@beimagine.tech. ",
+		"trackingTechnologiesTitle": "تقنيات التتبع بشكل عام",
+		"regularCookies": "قد يتم تعطيل ملفات تعريف الارتباط العادية أو إزالتها بشكل عام بواسطة الأدوات المتاحة كجزء من معظم المتصفحات التجارية وفي بعض الحالات يتم حظرها في المستقبل عن طريق تحديد إعدادات معينة.",
+		"googleAnalyticsTitle": "تحليلات كوكل",
+		"googleAnalyticsIntro2": "يمكنك ممارسة الخيارات المتعلقة باستخدام ملفات تعريف الارتباط من Google Analytics بالانتقال إلى https://tools.google.com/dlpage/gaoptout وتنزيل الوظيفة الإضافية لمتصفح إلغاء الاشتراك في Google Analytics.",
+		"contact_information": "معلومات الاتصال",
+		"contact_information_content": "نرحب بتعليقاتك أو أسئلتك حول هذه السياسة ، ويمكنك الاتصال بنا على: support@beimagine.tech.",
+		"changes_to_policy": "التغييرات في سياسة الخصوصية هذه",
+		"changes_to_policy_content": "يجوز لنا تغيير سياسة الخصوصية هذه في أي وقت. ",
+		"modifications_effective": "ستكون أي تعديلات على سياسة الخصوصية هذه سارية عند نشرنا للشروط الجديدة و / أو عند تنفيذ التغييرات على المواقع (أو كما هو مشار إليه في وقت النشر). ",
+		"eligibility": "جدارة - أهلية",
+		"eligibility_content": "إذا كنت تحت سن الرشد في منطقة الاختصاص القضائي التي تقيم فيها ، فلا يجوز لك استخدام الخدمات إلا بموافقة والديك أو الوصي القانوني أو تحت إشرافه. ",
+		"notice_to_all_persons": "إشعار لجميع الأشخاص",
+		"personal_information": "معلومات شخصية",
+		"personal_information_content": "فيما يتعلق \"بالمعلومات الشخصية\" ، كما هو مستخدم في سياسة الخصوصية هذه ، تعادل \"البيانات الشخصية\" على النحو المحدد في لائحة حماية البيانات العامة للاتحاد الأوروبي (GDPR).",
+		"sensitive_data": "بيانات حساسة",
+		"sensitive_data_content": "قد تشكل بعض المعلومات التي تقدمها لنا بيانات حساسة على النحو المحدد في اللائحة العامة لحماية البيانات (يشار إليها أيضًا بالفئات الخاصة من البيانات الشخصية) ، بما في ذلك تحديد العرق أو العرق في وثائق الهوية الصادرة عن الحكومة.",
+		"legal_bases_for_processing": "الأسس القانونية للمعالجة",
+		"legal_bases_for_processing_content": "نحن نستخدم معلوماتك الشخصية فقط على النحو الذي يسمح به القانون. ",
+		"processing_purpose": "الغرض من المعالجة",
+		"legal_basis": "الأساس القانوني",
+		"provide_service": "لتقديم خدماتنا",
+		"provide_service_legal_basis": "تعد معالجتنا لمعلوماتك الشخصية ضرورية لتنفيذ العقد الذي يحكم توفيرنا للخدمات أو لاتخاذ الخطوات التي تطلبها قبل الاشتراك في الخدمة.",
+		"communicate_optimize_platform1": "للتواصل معك",
+		"communicate_optimize_platform2": "لتحسين منصتنا",
+		"communicate_optimize_platform3": "للامتثال ومنع الاحتيال والسلامة",
+		"communicate_optimize_platform_legal_basis": "تشكل أنشطة المعالجة هذه مصالحنا المشروعة. ",
+		"comply_with_law": "للامتثال للقانون",
+		"comply_with_law_legal_basis": "نستخدم معلوماتك الشخصية للامتثال للقوانين المعمول بها والتزاماتنا القانونية ، بما في ذلك قوانين مكافحة غسيل الأموال (AML) ومتطلبات اعرف عميلك (KYC).",
+		"with_your_consent": "بموافقتك",
+		"with_your_consent_legal_basis": "عندما يعتمد استخدامنا لمعلوماتك الشخصية على موافقتك ، يحق لك سحبها في أي وقت بالطريقة الموضحة في الخدمة أو عن طريق الاتصال بنا على support@beimagine.tech.",
+		"contact_information2": "تستخدم لأغراض جديدة",
+		"contact_information_content2": "قد نستخدم معلوماتك الشخصية لأسباب غير مذكورة في سياسة الخصوصية هذه ...",
+		"your_rights": "حقوقك",
+		"your_rights_content": "بموجب القانون العام لحماية البيانات (GDPR) ، لديك حقوق معينة فيما يتعلق بمعلوماتك الشخصية ...",
+		"opt_out": "انسحب",
+		"opt_out_content": "توقف عن إرسال المراسلات التسويقية المباشرة التي وافقت مسبقًا على تلقيها ...",
+		"access": "وصول",
+		"access_content": "تزويدك بمعلومات حول معالجتنا لمعلوماتك الشخصية وتمنحك الوصول إلى معلوماتك الشخصية ...",
+		"correct": "صحيح",
+		"correct_content": "تحديث أو تصحيح الأخطاء في معلوماتك الشخصية ...",
+		"delete": "يمسح",
+		"delete_content": "حذف معلوماتك الشخصية ...",
+		"transfer": "تحويل",
+		"transfer_content": "انقل نسخة يمكن قراءتها آليًا من معلوماتك الشخصية إليك أو إلى طرف ثالث من اختيارك ...",
+		"restrict": "يقيد",
+		"restrict_content": "تقييد معالجة معلوماتك الشخصية ...",
+		"object": "هدف",
+		"object_content": "الاعتراض على اعتمادنا على مصالحنا المشروعة كأساس لمعالجتنا لمعلوماتك الشخصية التي تؤثر على حقوقك ...",
+		"submit_requests": "يمكنك إرسال هذه الطلبات عبر البريد الإلكتروني إلى support@beimagine.tech ...",
+		"cross_border_data_transfer": "نقل البيانات عبر الحدود",
+		"cross_border_data_transfer_content": "يرجى العلم أنه سيتم نقل بياناتك الشخصية ومعالجتها وتخزينها في الهند ...",
+		"cookies": "بسكويت",
+		"cookies_content": "يمكنك ضبط متصفحك على رفض كل أو بعض ملفات تعريف الارتباط الخاصة بالمتصفح ، أو لتنبيهك عند تعيين مواقع الويب أو الوصول إلى ملفات تعريف الارتباط ...",
+		"cookies_policy": "اتفاقية ملفات تعريف الارتباط",
+		"[SM-Legal1]": "[SM-Legal1]",
+		"All BIT websites to go here, kindly input the same": "جميع مواقع BIT للذهاب هنا ، يرجى إدخال نفس الشيء",
+		"[SM-Legal2]": "[SM-Legal2]",
+		"Information to be entered": "المعلومات المطلوب إدخالها"
+	}
+}

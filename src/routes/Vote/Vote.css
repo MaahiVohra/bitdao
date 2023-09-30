@@ -1,0 +1,97 @@
+.vote {
+	background-color: var(--primary);
+	display: flex;
+	align-items: flex-start;
+}
+aside {
+	max-width: 15em;
+	display: flex;
+	flex-direction: column;
+	color: white;
+	height: 90vh;
+	border-right: 1px solid var(--divider);
+}
+aside > div {
+	font-size: 1.2rem;
+	padding: 0.5em;
+	padding-left: 0.5em;
+	margin: 0.5em;
+	border-radius: 50em;
+	min-width: 5rem;
+	width: 12rem;
+	cursor: pointer;
+	transition: all 0.2s;
+	display: flex;
+	align-items: center;
+}
+aside > div:hover {
+	background-color: var(--purple);
+}
+.vote-icons {
+	background-color: transparent;
+	margin: 0 1.2em;
+}
+.activeTab {
+	background-color: var(--purple);
+}
+.vote-main {
+	padding: 2em;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2em;
+	align-items: flex-start;
+}
+
+.vote-card {
+	flex-basis: 48%;
+	background-color: var(--primary);
+	color: #fcfaff;
+	border: 1px solid var(--divider);
+	border-radius: 1em;
+	height: max-content;
+	padding: 2em 2em;
+	display: flex;
+	flex-direction: column;
+	gap: 2em;
+	transition: all 0.2s;
+	/* max-width: 48%; */
+}
+.vote-card:hover,
+.vote-card:hover h1 {
+	border-color: var(--purple);
+	color: var(--purple) !important;
+}
+.vote-card > h1 {
+	font-size: 2rem;
+	margin: 0;
+}
+.vote-card-item > h3 {
+	color: rgba(255, 255, 255, 0.534);
+}
+.vote-card-item > button {
+	color: ghostwhite;
+	margin: 0;
+	background-color: var(--purple);
+	border: none;
+	padding: 1em;
+	border-radius: 2em;
+	cursor: pointer;
+	min-width: 8em;
+}
+.vote-card-item > button:hover {
+	background-color: var(--purple-hover);
+}
+.vote-card-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 3em;
+	/* color: ghostwhite; */
+}
+
+.vote-card-btn-link {
+	text-decoration: none;
+	color: ghostwhite;
+	background-color: transparent;
+}

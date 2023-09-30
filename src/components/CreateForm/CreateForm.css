@@ -1,0 +1,506 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	/* font-size: 1rem; */
+}
+.createform input {
+	border: none;
+	border-bottom: 1px solid ghostwhite;
+	border-radius: 0;
+	width: 100%;
+}
+.createform {
+	align-items: flex-start;
+	color: ghostwhite;
+	display: grid;
+	width: 100%;
+	padding: 0em 3em;
+	gap: 2em;
+	grid-template-columns: 50fr 50fr 50fr 50fr 50fr;
+}
+.createform-form {
+	display: grid;
+	grid-template-columns: 50fr 50fr;
+	width: 100%;
+	gap: 3em;
+	grid-column: 2/6;
+}
+.createform-header {
+	position: relative;
+	display: flex;
+	grid-column: 1/6;
+	gap: 5em;
+	margin-bottom: 2em;
+}
+.createform-heading {
+	font-size: 2rem;
+	margin: 0;
+}
+.createform-uploadedthumbnail {
+	min-height: 15em;
+	max-height: 20em;
+	max-width: 15em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+	position: relative;
+	z-index: 1;
+}
+.createform-uploadedthumnbail img {
+	max-width: 100%;
+}
+.createform-uploadedthumbnail:hover .createform-uploadedthumbnail-overlay {
+	background-color: #1b0042;
+	opacity: 0.5;
+	z-index: 1;
+}
+
+.createform-uploadedthumbnail-overlay {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	opacity: 0.5;
+	font-size: 1.5rem;
+	cursor: pointer;
+	z-index: 0;
+}
+.createform-column {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25em;
+	width: 100%;
+}
+
+.createform-type {
+	background-color: transparent;
+	color: ghostwhite;
+	margin: 0;
+}
+.createform-type > option {
+	color: ghostwhite;
+	background-color: transparent;
+}
+.createform-input {
+	background-color: transparent;
+	color: ghostwhite;
+	padding: 1em;
+	font-size: 1rem;
+	max-width: none;
+	width: 100%;
+	outline: none;
+}
+
+.createform-dates {
+	display: flex;
+	gap: 1em;
+	width: 100%;
+}
+.createform-buttons {
+	display: flex;
+	justify-content: right;
+	gap: 1em;
+	grid-column: 1/3;
+}
+.createform-buttons > button {
+	font-size: 1rem;
+	margin: 2em 0;
+	padding: 1em 2em;
+}
+.event-createbutton {
+	background-color: var(--purple);
+	border: none;
+}
+/* Dropdown styles */
+.createform-type-heading {
+	border-radius: 0.5em;
+	padding: 1em;
+	cursor: pointer;
+	font-size: 1rem;
+	display: flex;
+	align-items: center;
+	gap: 1em;
+	position: relative;
+}
+.createform-type-heading:hover {
+	transition: none;
+	animation: none;
+	transform: none;
+	background-color: transparent;
+	color: ghostwhite;
+}
+.createform-type-options {
+	display: flex;
+	align-items: center;
+}
+.createform-type-options > button:first-child {
+	margin-right: 1em;
+}
+.createform-type-options > button {
+	border-radius: 0.5em;
+	width: 100%;
+	cursor: pointer;
+}
+.createform-type-options > button:hover {
+	background-color: var(--purple-hover) !important;
+}
+.createform-type-options > button.active {
+	background-color: var(--purple);
+	border-color: var(--purple);
+}
+.createform-type-heading:focus + .createform-type-options {
+	display: flex;
+}
+.createform-type-options > span {
+	padding: 1em 5em;
+	cursor: pointer;
+}
+.createform-type-options > span:hover {
+	background-color: var(--purple-hover);
+}
+
+.createform-date {
+	background-color: transparent;
+	color: ghostwhite;
+	padding: 1em;
+	font-size: 1rem;
+}
+.wrong-date {
+	border-bottom: 1px solid red !important;
+}
+.createform-description {
+	grid-column: 1/3;
+}
+#event-description {
+	max-width: none;
+	outline: none;
+	border: none;
+	border-bottom: 1px solid ghostwhite;
+	border-radius: 0;
+	resize: none;
+}
+.createform-addvoteoptions {
+	grid-column: 1/3;
+}
+.createform-vote-options-container {
+	display: flex;
+	flex-wrap: wrap;
+	grid-column: 1/3;
+	transition: height 2s ease;
+}
+.vote-options-image {
+	height: 5em;
+	width: 5em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+}
+
+.vote-options-image-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 5em;
+	width: 5em;
+}
+.image-close-btn {
+	color: black;
+	background-color: white;
+	padding: 1em;
+	border-radius: 50%;
+	align-items: center;
+	display: flex;
+}
+.image-close-btn-overlay {
+	position: absolute;
+	display: none;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+.vote-options-image:hover + .image-close-btn-overlay {
+	display: flex;
+}
+.vote-options-image:hover + .image-close-btn-overlay > .image-close-btn {
+	opacity: 1;
+	display: flex;
+}
+.image-close-btn-overlay:hover {
+	display: flex;
+}
+
+.vote-options-image-container:hover > .vote-options-image {
+	opacity: 0.5;
+}
+.vote-options-image:hover {
+	opacity: 0.5;
+}
+.createform-vote-options {
+	display: flex;
+	align-items: center;
+	margin-top: 0.5em;
+	padding: 0.5em;
+	gap: 1em;
+	background-color: var(--purple);
+	border-radius: 0.2em;
+	width: 100%;
+}
+.createform-vote-option-options {
+	display: flex;
+	align-items: center;
+	background-color: var(--purple);
+	border-radius: 0.2em;
+	gap: 1em;
+}
+.create-vote-option-options-label {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	overflow: hidden;
+	margin: 0;
+	padding: 0.5em;
+	border-radius: 0.5em;
+	cursor: pointer;
+	width: 5em;
+	height: 5em;
+}
+.create-vote-option-options-label:hover .upload-image-icon {
+	color: ghostwhite;
+	transition: all 0.2s;
+}
+.createform-vote-options-cross {
+	border: none;
+	place-items: center;
+	font-size: 1rem;
+	padding: 0;
+	margin: 0;
+	margin-right: 1em;
+	color: rgba(255, 255, 255, 0.7);
+}
+.createform-vote-options-cross:hover {
+	color: ghostwhite;
+	transition: all 0.2s;
+}
+.createform-vote-options-input {
+	background-color: transparent;
+	border: none;
+	outline: none;
+	color: ghostwhite;
+	padding: 1em;
+	outline: none;
+	cursor: pointer;
+}
+.createform-walletaddress-container {
+	display: flex;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, 0.849);
+	height: 100vh;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	z-index: 9999;
+}
+.createform-allowedwalletaddress-modal {
+	display: flex;
+	flex-direction: column;
+	gap: 2em;
+	background-color: var(--primary);
+	padding: 2em;
+	min-width: 40%;
+	max-width: min-content;
+	max-height: 80%;
+}
+.createform-allowedwalletaddresses-container {
+	max-height: 20em;
+	overflow: auto;
+}
+.createform-walletAddressModalBtn {
+	background-color: var(--purple);
+	border: none;
+	width: 100%;
+}
+.createform-walletAddressModalBtn:hover {
+	background-color: var(--purple-hover);
+}
+.createform-allowedwalletaddress-input {
+	background-color: transparent;
+	color: ghostwhite;
+	padding: 1em;
+	border: none;
+	outline: none;
+	font-size: 1rem;
+}
+.createform-allowed-walletaddress {
+	width: 100%;
+	font-size: 1rem;
+	overflow: hidden;
+}
+.addWalletAddressBtn {
+	background-color: var(--purple);
+	border-radius: 0.5rem;
+}
+.createform-allowed-walletaddress-input-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 1em;
+}
+.allowed-walletaddress-file {
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+	cursor: pointer;
+}
+.allowed-walletaddress-file-label {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	overflow: hidden;
+	width: 12em;
+	margin: 0;
+	padding: 0.5em;
+	border-radius: 0.5em;
+}
+.allowed-walletaddress-file-label:hover {
+	background-color: var(--purple);
+}
+.button-label {
+	display: flex;
+	align-items: center;
+	gap: 0.5em;
+	padding: 0;
+	pointer-events: none;
+	margin: 0;
+}
+.upload-image-icon {
+	padding: 0;
+	color: rgba(255, 255, 255, 0.7);
+}
+.upload-image-icon:hover {
+	padding: 0;
+	color: ghostwhite;
+}
+.upload-file-icon {
+	font-size: 1.5rem;
+}
+.modal {
+	position: fixed;
+	top: 2em;
+	left: 50%;
+	transform: translateX(-50%);
+	display: flex;
+	color: ghostwhite;
+	align-items: center;
+	gap: 1em;
+	background-color: var(--purple);
+	padding: 1em 1em;
+	border-radius: 0.25em;
+}
+.modal button {
+	border: none;
+	padding: 0;
+}
+.add-voteoption-btn {
+	font-size: 0.8rem;
+	color: var(--purple);
+	cursor: pointer;
+}
+.createform-vote-edit {
+	background-color: transparent;
+	color: ghostwhite;
+	border-bottom: 1px solid var(--purple) !important;
+	outline: none;
+	padding: 0.5em;
+}
+.createform-vote-edit:focus-within {
+	border-bottom: 1px solid ghostwhite !important;
+}
+.react-calendar {
+	background-color: var(--primary) !important;
+	border: none !important;
+	padding: 1em;
+}
+.react-calendar button:enabled:hover {
+	background-color: var(--purple) !important;
+}
+
+.react-calendar__navigation {
+	background-color: var(--primary) !important;
+}
+
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+	background-color: var(--purple-hover) !important;
+}
+
+.react-calendar__month-view__weekdays {
+	background-color: var(--purple) !important;
+}
+
+.react-calendar__tile--now {
+	background: ghostwhite !important;
+	color: black !important;
+}
+
+.react-calendar__tile--hasActive {
+	background: var(--purple) !important;
+}
+
+.react-calendar__tile--active {
+	background: var(--purple) !important;
+}
+
+.react-calendar--selectRange .react-calendar__tile--hover {
+	background-color: var(--purple) !important;
+}
+.react-datetimerange-picker__wrapper {
+	border: none !important;
+	gap: 1em;
+}
+.react-datetimerange-picker__inputGroup__input {
+	padding: 0.5em 0.125em !important;
+}
+.react-datetimerange-picker__range-divider {
+	margin-top: 1em !important;
+}
+.react-clock {
+	background-color: var(--primary);
+}
+
+.react-clock__face {
+	border: 1px solid ghostwhite !important;
+}
+
+.react-clock__hand__body {
+	background-color: ghostwhite !important;
+}
+
+.react-clock__mark__body {
+	background-color: ghostwhite !important;
+}
+
+.react-datetimerange-picker__clock {
+	background-color: var(--primary) !important;
+	border: none !important;
+}
+.whitebutton {
+	color: white;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	gap: 1em;
+}

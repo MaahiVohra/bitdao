@@ -1,0 +1,8 @@
+{
+	"navbar": {
+		"home": "Home",
+		"voting": "Voting",
+		"rating": "Rating",
+		"review": "Review"
+	}
+}
